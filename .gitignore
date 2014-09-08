@@ -1,4 +1,5 @@
 *.py
 *.pyc
 todo.md
+_site
 
