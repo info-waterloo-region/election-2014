@@ -1,3 +1,5 @@
 config.py
 todo.md
 *.pyc
+_site
+
