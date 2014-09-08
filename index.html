@@ -42,10 +42,22 @@ title: Home
             {% endif %}
           </td>
           <td class="icon">
+            {% if {{c.Facebook}} != empty %}
+            <a href="https://www.facebook.com/{{c.Facebook}}" title="{{c.Facebook}}">
+              <i class="fa fa-facebook"></i>
+            </a>
+            {% else %}
             <i class="fa fa-facebook"></i>
+            {% endif %}
           </td>
           <td class="icon">
+            {% if {{c.LinkedIn}} != empty %}
+            <a href="http://ca.linkedin.com/{{c.LinkedIn}}" title="{{c.LinkedIn}}">
+              <i class="fa fa-linkedin"></i>
+            </a>
+            {% else %}
             <i class="fa fa-linkedin"></i>
+            {% endif %}
           </td>
           <td>
             {{c.Phone}}
