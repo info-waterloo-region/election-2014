@@ -10,7 +10,7 @@ title:            Waterloo Region Election 2014
 tagline:          'Candidates'
 description:      'Maintained by <a href="http://waterlooregion.org">Social Planning Council of Kitchener-Waterloo</a>'
 url:              http://info-waterloo-region.github.io/election-2014
-baseurl:          '/election-2014/'
+baseurl:          '/election-2014'
 paginate:         5
 
 author:
