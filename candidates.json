@@ -1124,9 +1124,29 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": ""
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Rodney Rolleman", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-632-8404", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "rod@schooltee.com"
       }
     ], 
     "Ward 2": [
+      {
+        "Website": "", 
+        "Candidate": "John Edward Berge", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-632-9076", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "johnberge20@gmail.com"
+      }, 
       {
         "Website": "", 
         "Candidate": "Ania Onichuk", 
@@ -1136,6 +1156,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "aniaonichuk@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Derrick Ostner", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "742-9002", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "derricko@rogers.com"
       }
     ], 
     "Ward 3": [
@@ -1321,6 +1351,16 @@
     "Ward 1": [
       {
         "Website": "", 
+        "Candidate": "Glenn Cooke", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-897-6694", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "glenn@glenn.ca"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Al Junker", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -1430,6 +1470,26 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "drdanholt@rogers.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Allan Poffenroth", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-210-2121", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "allanpoffenroth@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Sebastian Siebel-Achenbach", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-888-4567", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "ssiebela@uwaterloo.ca"
       }, 
       {
         "Website": "", 
