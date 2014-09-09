@@ -1,4 +1,3 @@
-election-2014
-=============
+# Waterloo Region Municipal Elections
 
-Waterloo Region Municipal Elections
+
