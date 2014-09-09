@@ -529,7 +529,7 @@
         "Website": "", 
         "Candidate": "Wasai Rahimi", 
         "Twitter": "wasairahimi", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/wasai-rahimi/29/b3a/b64", 
         "Phone": "519-572-7256", 
         "Facebook": "", 
         "Incumbent": "", 
@@ -607,7 +607,7 @@
         "Twitter": "gallowaykelly", 
         "LinkedIn": "", 
         "Phone": "519-954-5130", 
-        "Facebook": "", 
+        "Facebook": "councillorkelly.galloway", 
         "Incumbent": "Incumbent", 
         "Email": "kavgalloway@yahoo.ca"
       }, 
@@ -616,7 +616,7 @@
         "Candidate": "Mary Henein Thorn", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "226-647-1536", 
+        "Phone": "519-722-3071", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "serving.u.with.passion@gmail.com"
@@ -630,6 +630,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "lalamalik@hotmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Trysha Wharton", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-489-4989", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "votewhartonward5@gmail.com"
       }
     ], 
     "Ward 6": [
@@ -671,7 +681,7 @@
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "519-897-4679", 
-        "Facebook": "", 
+        "Facebook": "pages/Harald-Drewitz-for-Ward-7/864885286862205", 
         "Incumbent": "", 
         "Email": "h.drewitz@sympatico.ca"
       }, 
@@ -697,6 +707,16 @@
       }
     ], 
     "Ward 8": [
+      {
+        "Website": "", 
+        "Candidate": "Eric Bohner", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "226-791-2094", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "eric.n.bohner@gmail.com"
+      }, 
       {
         "Website": "margaretjohnston.ca", 
         "Candidate": "Margaret Johnston", 
@@ -735,7 +755,7 @@
         "Twitter": "tessajennison", 
         "LinkedIn": "", 
         "Phone": "226-600-8939", 
-        "Facebook": "", 
+        "Facebook": "TessaJennison", 
         "Incumbent": "", 
         "Email": "tessa.jennison@gmail.com"
       }, 
@@ -799,7 +819,7 @@
         "Website": "davejaworsky.ca", 
         "Candidate": "Dave Jaworsky", 
         "Twitter": "DaveJaworsky", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/dave-jaworsky/2/93a/377", 
         "Phone": "519-746-8643", 
         "Facebook": "", 
         "Incumbent": "", 
@@ -816,24 +836,24 @@
         "Email": "info@daveformayor.ca"
       }, 
       {
-        "Website": "", 
-        "Candidate": "Erika Traub", 
-        "Twitter": "ErikaTraub1", 
-        "LinkedIn": "", 
-        "Phone": "519-747-0937", 
-        "Facebook": "", 
-        "Incumbent": "", 
-        "Email": "etraub@bell.net"
-      }, 
-      {
         "Website": "www.ramisaid.ca", 
         "Candidate": "Rami Said", 
         "Twitter": "RamiJSaid", 
         "LinkedIn": "", 
         "Phone": "519-590-3114", 
-        "Facebook": "", 
+        "Facebook": "rami4mayor", 
         "Incumbent": "", 
         "Email": "ramisaid.inc@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Erika Traub", 
+        "Twitter": "ErikaTraub1", 
+        "LinkedIn": "", 
+        "Phone": "519-747-0937", 
+        "Facebook": "pages/Erika-Traub-for-Mayor-of-Waterloo/783689014992319", 
+        "Incumbent": "", 
+        "Email": "etraub@bell.net"
       }
     ], 
     "Ward 1": [
@@ -865,7 +885,7 @@
         "Twitter": "janbeth50", 
         "LinkedIn": "", 
         "Phone": "519-580-5647", 
-        "Facebook": "", 
+        "Facebook": "JaniceMooreForWard2", 
         "Incumbent": "", 
         "Email": "janicemooreforward2@gmail.com"
       }, 
@@ -875,7 +895,7 @@
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "519-572-0777", 
-        "Facebook": "", 
+        "Facebook": "willms4waterloo", 
         "Incumbent": "", 
         "Email": "willmsh@rogers.com"
       }
@@ -887,7 +907,7 @@
         "Twitter": "votedoherty", 
         "LinkedIn": "", 
         "Phone": "519-580-7532", 
-        "Facebook": "", 
+        "Facebook": "votedoherty", 
         "Incumbent": "", 
         "Email": "shelbydoherty@rogers.com"
       }, 
@@ -963,7 +983,7 @@
         "Twitter": "jeffhenrykw", 
         "LinkedIn": "", 
         "Phone": "226-972-6382", 
-        "Facebook": "", 
+        "Facebook": "jeffhenrykw", 
         "Incumbent": "Incumbent", 
         "Email": "jeff@jeffhenry.ca"
       }, 
@@ -985,7 +1005,7 @@
         "Twitter": "melissadurrell", 
         "LinkedIn": "pub/melissa-durrell/25/822/a40", 
         "Phone": "519-886-9241", 
-        "Facebook": "", 
+        "Facebook": "melissadurrelluptown", 
         "Incumbent": "Incumbent", 
         "Email": "melissa@melissadurrell.ca"
       }
