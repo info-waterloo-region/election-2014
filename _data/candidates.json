@@ -163,6 +163,16 @@
     "Mayor": [
       {
         "Website": "", 
+        "Candidate": "Sardool Bhogal", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-621-4852", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "sbhogal@rogers.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Doug Craig", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -170,6 +180,26 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "mayor@cambridge.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Sandra Hill", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-621-9053", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "sandra2@sympatico.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Andrew Johnson", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-624-4664", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "mike@mikocommunications.com"
       }, 
       {
         "Website": "", 
@@ -195,6 +225,26 @@
     "Ward 1": [
       {
         "Website": "", 
+        "Candidate": "Kayla Andrade", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "226-972-0563", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "kaylaandrade@ontariolandlordswatch.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Peter Crystal", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-841-7653", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "pcrystal@rogers.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Donna Reid", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -211,7 +261,7 @@
         "Twitter": "Bierman4Ward2", 
         "LinkedIn": "", 
         "Phone": "519-716-1664", 
-        "Facebook": "", 
+        "Facebook": "Bierman4Ward2", 
         "Incumbent": "", 
         "Email": "barbara.bierman@sympatico.ca"
       }, 
@@ -234,16 +284,6 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "devine.mk@gmail.com"
-      }, 
-      {
-        "Website": "www.johnfriesen.ca", 
-        "Candidate": "John Friesen", 
-        "Twitter": "johnnyfriesen", 
-        "LinkedIn": "", 
-        "Phone": "519-972-5178", 
-        "Facebook": "", 
-        "Incumbent": "", 
-        "Email": "johnny.friesen@gmail.com"
       }
     ], 
     "Ward 3": [
@@ -253,9 +293,19 @@
         "Twitter": "barr4ward3", 
         "LinkedIn": "", 
         "Phone": "519-653-3375", 
-        "Facebook": "", 
+        "Facebook": "margaret.barr.52", 
         "Incumbent": "", 
         "Email": "margaret-barr@sympatico.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Dave Davidson", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-653-0458", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "davidsond@sympatico.ca"
       }, 
       {
         "Website": "www.susangalvaohomes.com", 
@@ -263,7 +313,7 @@
         "Twitter": "susangalvao", 
         "LinkedIn": "", 
         "Phone": "519-221-0313", 
-        "Facebook": "", 
+        "Facebook": "susan.galvao.7", 
         "Incumbent": "", 
         "Email": "info@susangalvao.com"
       }, 
@@ -276,6 +326,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "gowing@bell.blackberry.net"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Mike Mann", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-653-1684", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "mdmann@golden.net"
       }, 
       {
         "Website": "www.briansantos.ca", 
@@ -428,6 +488,16 @@
     ], 
     "Ward 8": [
       {
+        "Website": "", 
+        "Candidate": "Harmail Basi", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "647-505-7968", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "harmail.basi@gmail.com"
+      }, 
+      {
         "Website": "electnicholasermeta.yolasite.com", 
         "Candidate": "Nicholas Ermeta", 
         "Twitter": "NicholasErmeta", 
@@ -436,6 +506,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "Nicholas_Ermeta_4_Cambridge@yahoo.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Mark Hovey", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-222-4867", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "mhoveyacn@live.com"
       }, 
       {
         "Website": "", 
