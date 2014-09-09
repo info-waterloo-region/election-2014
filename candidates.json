@@ -3,11 +3,21 @@
     "Chair": [
       {
         "Website": "", 
-        "Candidate": "Paul A Myles", 
+        "Candidate": "Jay Aissa", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-747-3970", 
         "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "jay@jayfencing.com"
+      }, 
+      {
+        "Website": "paulamyles4waterlooregionalchair.weebly.com", 
+        "Candidate": "Paul A Myles", 
+        "Twitter": "paulamyles2014", 
+        "LinkedIn": "", 
+        "Phone": "", 
+        "Facebook": "paulmyleswaterlooregionialchaircandidate", 
         "Incumbent": "", 
         "Email": "paulalexandermyles@gmail.com"
       }, 
@@ -76,17 +86,7 @@
     ], 
     "Kitchener": [
       {
-        "Website": "", 
-        "Candidate": "Eric Bohner", 
-        "Twitter": "", 
-        "LinkedIn": "", 
-        "Phone": "", 
-        "Facebook": "", 
-        "Incumbent": "", 
-        "Email": "eric.n.bohner@gmail.com"
-      }, 
-      {
-        "Website": "", 
+        "Website": "www.gregburns.ca", 
         "Candidate": "Greg Burns", 
         "Twitter": "gregorytburns", 
         "LinkedIn": "", 
@@ -96,12 +96,12 @@
         "Email": "gregory.t.burns@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "elizabethclarke-yourwaterloo.weebly.com", 
         "Candidate": "Elizabeth Clarke", 
         "Twitter": "ECatYW", 
         "LinkedIn": "", 
         "Phone": "", 
-        "Facebook": "", 
+        "Facebook": "elizabethclarkeyourwaterloocouncillor", 
         "Incumbent": "", 
         "Email": "e-clarke@live.ca"
       }, 
@@ -117,13 +117,55 @@
       }, 
       {
         "Website": "", 
-        "Candidate": "Karen Redman", 
+        "Candidate": "Tom Galloway", 
+        "Twitter": "tomjgalloway14", 
+        "LinkedIn": "", 
+        "Phone": "519-578-2112", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "tomjgalloway14@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Geoff Lorentz", 
         "Twitter": "", 
         "LinkedIn": "", 
+        "Phone": "519-741-1494", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "geoff.lorentz@rogers.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Karen Redman", 
+        "Twitter": "", 
+        "LinkedIn": "pub/karen-redman/26/7b3/99b", 
         "Phone": "", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "redman.mom@gmail.com"
+      }
+    ], 
+    "Waterloo": [
+      {
+        "Website": "edkorschewitz.ca", 
+        "Candidate": "Ed Korschewitz", 
+        "Twitter": "ed_korschewitz", 
+        "LinkedIn": "", 
+        "Phone": "519-743-3099", 
+        "Facebook": "ed.korschewitz", 
+        "Incumbent": "", 
+        "Email": "ed@edkorschewitz.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Jane Mitchell", 
+        "Twitter": "janemitchell", 
+        "LinkedIn": "", 
+        "Phone": "519-886-9626", 
+        "Facebook": "", 
+        "Incumbent": "Incumbent", 
+        "Email": "janemitchell@rogers.com"
       }, 
       {
         "Website": "karenscian.ca", 
@@ -144,18 +186,6 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "sean@seanstrickland.com"
-      }
-    ], 
-    "Waterloo": [
-      {
-        "Website": "", 
-        "Candidate": "Jane Mitchell", 
-        "Twitter": "janemitchell", 
-        "LinkedIn": "", 
-        "Phone": "519-886-9626", 
-        "Facebook": "", 
-        "Incumbent": "Incumbent", 
-        "Email": "janemitchell@rogers.com"
       }
     ]
   }, 
