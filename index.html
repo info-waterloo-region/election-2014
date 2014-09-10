@@ -6,9 +6,9 @@ title: Home
 <div class="post">
 
   {% for m in site.data.candidates %}
-  <h1>{{m[0]}}</h1>
+  <h2>{{m[0]}}</h2>
     {% for o in m[1] %}
-    <h2>{{o[0]}}</h2>
+    <h3>{{o[0]}}</h3>
     <table>
       <tbody>
         {% for c in o[1] %}
