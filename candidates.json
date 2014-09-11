@@ -23,6 +23,16 @@
       }, 
       {
         "Website": "", 
+        "Candidate": "Oscar Cole-Arnal", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-883-4005", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": " ocolearnal@gmail.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Ken Seiling", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -100,7 +110,7 @@
         "Candidate": "Elizabeth Clarke", 
         "Twitter": "ECatYW", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-501-3387", 
         "Facebook": "elizabethclarkeyourwaterloocouncillor", 
         "Incumbent": "", 
         "Email": "e-clarke@live.ca"
@@ -140,8 +150,8 @@
         "Candidate": "Karen Redman", 
         "Twitter": "", 
         "LinkedIn": "pub/karen-redman/26/7b3/99b", 
-        "Phone": "", 
-        "Facebook": "", 
+        "Phone": "519-570-3838", 
+        "Facebook": "Team.Karen.Redman", 
         "Incumbent": "", 
         "Email": "redman.mom@gmail.com"
       }
@@ -1272,7 +1282,7 @@
         "Candidate": "Derrick Ostner", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "742-9002", 
+        "Phone": "519-742-9002", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "derricko@rogers.com"
@@ -1320,7 +1330,7 @@
         "Candidate": "Paul Hergott", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-699-5730", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "p.p.hergott@sympatico.ca"
@@ -1374,7 +1384,7 @@
         "Candidate": "Herb Neher", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-699-4618", 
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "herbneher@sympatico.ca"
@@ -1383,10 +1393,20 @@
     "Ward 3": [
       {
         "Website": "", 
-        "Candidate": "Peter van der Maas", 
+        "Candidate": "Andrew Brenner", 
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "andrewbrenner@live.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Peter van der Maas", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-656-3474", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "vandermaas14@gmail.com"
@@ -1398,7 +1418,7 @@
         "Candidate": "Brian Cunningham", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-699-9252", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "brian.a.cunningham@rogers.com"
@@ -1418,7 +1438,7 @@
         "Candidate": "Andrew Epp", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-218-0306", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "aepp21221@rogers.com"
