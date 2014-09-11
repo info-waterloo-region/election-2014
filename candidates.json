@@ -572,7 +572,7 @@
         "Email": "danbev@rogers.com"
       }, 
       {
-        "Website": "", 
+        "Website": "petermartinformayor.com", 
         "Candidate": "Peter Martin", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -604,6 +604,16 @@
     ], 
     "Ward 1": [
       {
+        "Website": "", 
+        "Candidate": "Nikoleta Allerton", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-500-1050", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "nikiallerton@gmail.com"
+      }, 
+      {
         "Website": "www.scottdavey.info", 
         "Candidate": "Scott Davey", 
         "Twitter": "Scott__Davey", 
@@ -612,9 +622,29 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "scottdavey@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Wayne Riehl", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-579-2958", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "wjr2@rogers.com"
       }
     ], 
     "Ward 2": [
+      {
+        "Website": "", 
+        "Candidate": "Steven Cage", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-221-4442", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "stevencage@rogers.com"
+      }, 
       {
         "Website": "dangrahamward2.com", 
         "Candidate": "Dan Graham", 
@@ -670,7 +700,7 @@
       {
         "Website": "", 
         "Candidate": "John Gazzola", 
-        "Twitter": "", 
+        "Twitter": "jgaz3", 
         "LinkedIn": "", 
         "Phone": "519-744-0807", 
         "Facebook": "", 
@@ -702,7 +732,7 @@
       {
         "Website": "", 
         "Candidate": "Rolf Malthaner", 
-        "Twitter": "", 
+        "Twitter": "rolf.malthaner", 
         "LinkedIn": "", 
         "Phone": "519-998-4203", 
         "Facebook": "", 
@@ -724,7 +754,7 @@
       {
         "Website": "", 
         "Candidate": "Mary Henein Thorn", 
-        "Twitter": "", 
+        "Twitter": "MaryHeneinThorn", 
         "LinkedIn": "", 
         "Phone": "519-722-3071", 
         "Facebook": "", 
@@ -765,6 +795,16 @@
       }, 
       {
         "Website": "", 
+        "Candidate": "Dudley de Zoysa", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "226-647-0476", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "donjayat@yahoo.ca"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Wanda Kampijan", 
         "Twitter": "wandakampijan", 
         "LinkedIn": "", 
@@ -772,6 +812,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "wkampijan@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Verne Sawyer", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-578-5399", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "ward6@thesawyers.ca"
       }, 
       {
         "Website": "", 
@@ -811,7 +861,7 @@
         "Twitter": "fauziamazhar2", 
         "LinkedIn": "", 
         "Phone": "519-781-1285", 
-        "Facebook": "", 
+        "Facebook": "FauziaMazhar2", 
         "Incumbent": "", 
         "Email": "fauzia@fauziamazhar.ca"
       }
@@ -852,7 +902,7 @@
       {
         "Website": "franketherington.ca", 
         "Candidate": "Frank Etherington", 
-        "Twitter": "", 
+        "Twitter": "Frank_Ward9", 
         "LinkedIn": "", 
         "Phone": "519-579-0502", 
         "Facebook": "", 
@@ -880,7 +930,7 @@
         "Email": "terrross@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "believeinsteve.ca", 
         "Candidate": "Steve Strohack", 
         "Twitter": "ward9strohack", 
         "LinkedIn": "", 
@@ -915,9 +965,9 @@
         "Website": "sarahmarsh.ca", 
         "Candidate": "Sarah Marsh", 
         "Twitter": "Marsh_Ward10", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/sarah-marsh/59/75b/258", 
         "Phone": "519-807-8006", 
-        "Facebook": "", 
+        "Facebook": "sarahmarshward10", 
         "Incumbent": "", 
         "Email": "sarah@sarahmarsh.ca"
       }
@@ -985,7 +1035,7 @@
         "Twitter": "helenka6", 
         "LinkedIn": "", 
         "Phone": "519-883-0950", 
-        "Facebook": "", 
+        "Facebook": "Helen4Ward2", 
         "Incumbent": "", 
         "Email": "hmlrumney@rogers.com"
       }, 
@@ -1049,7 +1099,7 @@
         "Twitter": "DianeLFreeman", 
         "LinkedIn": "", 
         "Phone": "519-885-7208", 
-        "Facebook": "", 
+        "Facebook": "pages/Councillor-Diane-Freeman/140698609306535", 
         "Incumbent": "Incumbent", 
         "Email": "d1f.6800@gmail.com"
       }, 
@@ -1068,7 +1118,7 @@
       {
         "Website": "", 
         "Candidate": "Zdravko Gunjevic", 
-        "Twitter": "", 
+        "Twitter": "zdravko_g", 
         "LinkedIn": "", 
         "Phone": "519-721-8075", 
         "Facebook": "", 
@@ -1084,6 +1134,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "markwhaley@hotmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Karma Joseph Yousif", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-498-5328", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "karam@kjyousif.ca"
       }
     ], 
     "Ward 6": [
