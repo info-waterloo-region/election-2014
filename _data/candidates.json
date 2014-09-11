@@ -222,12 +222,12 @@
         "Email": "sandra2@sympatico.ca"
       }, 
       {
-        "Website": "", 
+        "Website": "ideasthatmakesense.ca", 
         "Candidate": "Andrew Johnson", 
-        "Twitter": "", 
-        "LinkedIn": "", 
+        "Twitter": "voteandrew", 
+        "LinkedIn": "pub/andrew-johnson/15/561/752", 
         "Phone": "519-624-4664", 
-        "Facebook": "", 
+        "Facebook": "andrew.johnson.52459615", 
         "Incumbent": "", 
         "Email": "mike@mikocommunications.com"
       }, 
@@ -282,6 +282,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "donnaereid@rogers.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Terri Sopha", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-500-3636", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "tsopha73@gmail.com"
       }
     ], 
     "Ward 2": [
@@ -311,7 +321,7 @@
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "519-716-1664", 
-        "Facebook": "", 
+        "Facebook": "mikedevineward2", 
         "Incumbent": "", 
         "Email": "devine.mk@gmail.com"
       }
@@ -438,6 +448,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "newtonshawn@rogers.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Suzanne Tebbutt", 
+        "Twitter": "SuzanneTebbutt", 
+        "LinkedIn": "pub/suzanne-tebbutt/6a/a48/780", 
+        "Phone": "519-240-1462", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "stebbutt@live.com"
       }
     ], 
     "Ward 5": [
