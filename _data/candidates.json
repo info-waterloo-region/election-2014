@@ -12,6 +12,36 @@
         "Email": "jay@jayfencing.com"
       }, 
       {
+        "Website": "", 
+        "Candidate": "Oscar Cole-Arnal", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-883-4005", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "ocolearnal@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Moira-Sharon Magee", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "achairwhocares@gmail.com"
+      }, 
+      {
+        "Website": "robertmilligan.org", 
+        "Candidate": "Robert Milligan", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-696-2288", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "mill@continuum.org"
+      }, 
+      {
         "Website": "paulamyles4waterlooregionalchair.weebly.com", 
         "Candidate": "Paul A Myles", 
         "Twitter": "paulamyles2014", 
@@ -20,16 +50,6 @@
         "Facebook": "paulmyleswaterlooregionialchaircandidate", 
         "Incumbent": "", 
         "Email": "paulalexandermyles@gmail.com"
-      }, 
-      {
-        "Website": "", 
-        "Candidate": "Oscar Cole-Arnal", 
-        "Twitter": "", 
-        "LinkedIn": "", 
-        "Phone": "519-883-4005", 
-        "Facebook": "", 
-        "Incumbent": "", 
-        "Email": " ocolearnal@gmail.com"
       }, 
       {
         "Website": "", 
@@ -74,6 +94,16 @@
         "Email": "kditner@gmail.com"
       }, 
       {
+        "Website": "", 
+        "Candidate": "John Florence", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-721-6853", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "john@florencesigns.com"
+      }, 
+      {
         "Website": "helenjowett.ca", 
         "Candidate": "Helen Jowett", 
         "Twitter": "HelenJowett2014", 
@@ -92,6 +122,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "karlkiefer52@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Ron Koenderink", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-590-9409", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "cerberus1956@rogers.com"
       }
     ], 
     "Kitchener": [
@@ -154,6 +194,16 @@
         "Facebook": "Team.Karen.Redman", 
         "Incumbent": "", 
         "Email": "redman.mom@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Wayne Wettlaufer", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-208-2610", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "waymar2@rogers.com"
       }
     ], 
     "Waterloo": [
@@ -178,6 +228,16 @@
         "Email": "janemitchell@rogers.com"
       }, 
       {
+        "Website": "", 
+        "Candidate": "Bob Oberholtzer", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-884-7620", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": ""
+      }, 
+      {
         "Website": "karenscian.ca", 
         "Candidate": "Karen Scian", 
         "Twitter": "karenscian", 
@@ -196,6 +256,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "sean@seanstrickland.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Andrew Telegdi", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-746-7902", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "andrewtelegdi@live.ca"
       }
     ]
   }, 
@@ -240,6 +310,16 @@
         "Facebook": "andrew.johnson.52459615", 
         "Incumbent": "", 
         "Email": "mike@mikocommunications.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Harpinder Singh", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-622-9423", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "soomal@live.com"
       }, 
       {
         "Website": "", 
@@ -334,6 +414,16 @@
         "Facebook": "mikedevineward2", 
         "Incumbent": "", 
         "Email": "devine.mk@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Jeffrey Gamble", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "226-600-4137", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "jeff.gamble@hotmail.com"
       }
     ], 
     "Ward 3": [
@@ -356,16 +446,6 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "davidsond@sympatico.ca"
-      }, 
-      {
-        "Website": "www.susangalvaohomes.com", 
-        "Candidate": "Susan Galvao", 
-        "Twitter": "susangalvao", 
-        "LinkedIn": "", 
-        "Phone": "519-221-0313", 
-        "Facebook": "susan.galvao.7", 
-        "Incumbent": "", 
-        "Email": "info@susangalvao.com"
       }, 
       {
         "Website": "", 
@@ -505,6 +585,16 @@
     "Ward 6": [
       {
         "Website": "", 
+        "Candidate": "Shannon Adshade", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-622-5475", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "shannonadshade@rogers.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Justin Lee Edward", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -544,6 +634,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "fmonteiro351@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Adam Treble", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "416-829-6495", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "hilander@fido.ca"
       }
     ], 
     "Ward 8": [
@@ -556,6 +656,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "harmail.basi@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Mohammad S Darr", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-651-9597", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "sellingcambridge@hotmail.com"
       }, 
       {
         "Website": "electnicholasermeta.yolasite.com", 
@@ -613,6 +723,16 @@
       }, 
       {
         "Website": "", 
+        "Candidate": "Slavko Miladinovic", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-498-9785", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "slavko.miladinovic@gmail.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "James Rhodes", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -652,6 +772,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "scottdavey@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Marcus Drasdo", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "226-600-1492", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "marcus@marcusdrasdo.com"
       }, 
       {
         "Website": "", 
@@ -968,6 +1098,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "ward9strohack@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Michael Windley", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-616-1575", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "mcwind.i@yahoo.ca"
       }
     ], 
     "Ward 10": [
@@ -990,6 +1130,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "adamk1985@hotmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Gabriele Korschewitz", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "226-476-2484", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "gabriele@gabrielekorschewitz.com"
       }, 
       {
         "Website": "sarahmarsh.ca", 
@@ -1061,6 +1211,16 @@
     "Ward 2": [
       {
         "Website": "", 
+        "Candidate": "Brian Bourke", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-880-9216", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "brianrbourke58@gmail.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Helen Kaluzny", 
         "Twitter": "helenka6", 
         "LinkedIn": "", 
@@ -1103,6 +1263,16 @@
       }, 
       {
         "Website": "", 
+        "Candidate": "Andrei Kovacsik", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-884-1970 ext 325", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": ""
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Amit Sharma", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -1142,6 +1312,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "rkapoor@kapgroupservices.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Clive Smith", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-590-4008", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "clive4waterloo@gmail.com"
       }
     ], 
     "Ward 5": [
@@ -1232,6 +1412,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "susan.foxton@sympatico.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "John Holman", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-620-2111", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": ""
       }
     ], 
     "Ward 1": [
@@ -1244,6 +1434,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": ""
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Victor Laurin", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-632-7297", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "motorcyclev@hotmail.com"
       }, 
       {
         "Website": "", 
@@ -1266,6 +1466,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "johnberge20@gmail.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Leonard David Lee", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": ""
       }, 
       {
         "Website": "", 
@@ -1311,6 +1521,16 @@
       }
     ], 
     "Ward 4": [
+      {
+        "Website": "", 
+        "Candidate": "Garry Kinzie", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": ""
+      }, 
       {
         "Website": "", 
         "Candidate": "Neil Ritchie", 
@@ -1388,6 +1608,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "herbneher@sympatico.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Jerome Voisin", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-569-0813", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "bvoisin@gmail.com"
       }
     ], 
     "Ward 3": [
@@ -1503,6 +1733,16 @@
     "Ward 2": [
       {
         "Website": "", 
+        "Candidate": "Cheryl Lynn Gordijk", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-573-8161", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "cherylgordijk@gmail.com"
+      }, 
+      {
+        "Website": "", 
         "Candidate": "Peter Roe", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -1526,16 +1766,6 @@
     ], 
     "Ward 4": [
       {
-        "Website": "", 
-        "Candidate": "Mark Murray", 
-        "Twitter": "", 
-        "LinkedIn": "", 
-        "Phone": "519-662-2625", 
-        "Facebook": "", 
-        "Incumbent": "Incumbent", 
-        "Email": "murrays@netflash.net"
-      }, 
-      {
         "Website": "www.jeffgerber.ca", 
         "Candidate": "Jeff Gerber", 
         "Twitter": "", 
@@ -1544,6 +1774,16 @@
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "jeff@jeffgerber.ca"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Mark Murray", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-662-2625", 
+        "Facebook": "", 
+        "Incumbent": "Incumbent", 
+        "Email": "murrays@netflash.net"
       }
     ]
   }, 
@@ -1600,6 +1840,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "drdanholt@rogers.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Patrick Merlihan", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-669-3833", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "pmerliham@rogers.com"
       }, 
       {
         "Website": "", 
@@ -1664,6 +1914,16 @@
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "lisamacd@rogers.com"
+      }, 
+      {
+        "Website": "", 
+        "Candidate": "Murray Martin", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": ""
       }, 
       {
         "Website": "", 
