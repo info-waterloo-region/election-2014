@@ -7,7 +7,7 @@ from collections import OrderedDict
 
 # Get worksheet (w) from Google
 g = gspread.login(config.user, config.password)
-s = g.open(config.spreadsheet)
+s = g.open(config.candidates)
 w = s.get_worksheet(0)
 
 # Get worksheet values as list (l) of lists and write to csv file (f)
