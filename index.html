@@ -15,48 +15,48 @@ title: Home
         <tr>
           <td>
             {% if c.Website == empty %}
-            {{c.Candidate}}
+              {{c.Candidate}}
             {% else %}
-            <a href="http://{{c.Website}}">{{c.Candidate}}</a>
+              <a href="http://{{c.Website}}">{{c.Candidate}}</a>
             {% endif %}
             {% if c.Incumbent != empty %}
-            <i class="fa fa-star-o" title="{{c.Incumbent}}"></i>
+              <i class="fa fa-star-o" title="{{c.Incumbent}}"></i>
             {% endif %}
           </td>
           <td class="icon">
             {% if c.Email != empty %}
-            <a href="mailto:{{c.Email}}" title="{{c.Email}}">
-              <i class="fa fa-envelope"></i>
-            </a>
+              <a href="mailto:{{c.Email}}" title="{{c.Email}}">
+                <i class="fa fa-envelope"></i>
+              </a>
             {% else %}
-            <i class="fa fa-envelope"></i>
+              <i class="fa fa-envelope"></i>
             {% endif %}
           </td>
           <td class="icon">
             {% if {{c.Twitter}} != empty %}
-            <a href="https://twitter.com/{{c.Twitter}}" title="@{{c.Twitter}}">
-              <i class="fa fa-twitter"></i>
-            </a>
+              <a href="https://twitter.com/{{c.Twitter}}" title="@{{c.Twitter}}">
+                <i class="fa fa-twitter"></i>
+              </a>
             {% else %}
-            <i class="fa fa-twitter"></i>
+              <i class="fa fa-twitter"></i>
             {% endif %}
           </td>
           <td class="icon">
             {% if {{c.Facebook}} != empty %}
-            <a href="https://www.facebook.com/{{c.Facebook}}" title="{{c.Facebook}}">
-              <i class="fa fa-facebook"></i>
-            </a>
+              <a href="https://www.facebook.com/{{c.Facebook}}" title="{{c.Facebook}}">
+                <i class="fa fa-facebook"></i>
+              </a>
             {% else %}
-            <i class="fa fa-facebook"></i>
+              <i class="fa fa-facebook"></i>
             {% endif %}
           </td>
           <td class="icon">
             {% if {{c.LinkedIn}} != empty %}
-            <a href="http://ca.linkedin.com/{{c.LinkedIn}}" title="{{c.LinkedIn}}">
-              <i class="fa fa-linkedin"></i>
-            </a>
+              <a href="http://ca.linkedin.com/{{c.LinkedIn}}" title="{{c.LinkedIn}}">
+                <i class="fa fa-linkedin"></i>
+              </a>
             {% else %}
-            <i class="fa fa-linkedin"></i>
+              <i class="fa fa-linkedin"></i>
             {% endif %}
           </td>
           <td>
