@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{page.title}}</h1>
+  <h2>Candidates</h2>
+  {% for m in site.data.candidates %}
+  {% if m[0] == page.title %}
+    {% for o in m[1] %}
+    <h3>{{o[0]}}</h3>
+    <table>
+      <tbody>
+        {% for c in o[1] %}
+        <tr>
+          <td>
+            {% if c.Website == empty %}
+              {{c.Candidate}}
+            {% else %}
+              <a href="http://{{c.Website}}">{{c.Candidate}}</a>
+            {% endif %}
+            {% if c.Incumbent != empty %}
+              <i class="fa fa-star-o" title="{{c.Incumbent}}"></i>
+            {% endif %}
+          </td>
+          <td class="icon">
+            {% if c.Email != empty %}
+              <a href="mailto:{{c.Email}}" title="{{c.Email}}">
+                <i class="fa fa-envelope"></i>
+              </a>
+            {% else %}
+              <i class="fa fa-envelope"></i>
+            {% endif %}
+          </td>
+          <td class="icon">
+            {% if {{c.Twitter}} != empty %}
+              <a href="https://twitter.com/{{c.Twitter}}" title="@{{c.Twitter}}">
+                <i class="fa fa-twitter"></i>
+              </a>
+            {% else %}
+              <i class="fa fa-twitter"></i>
+            {% endif %}
+          </td>
+          <td class="icon">
+            {% if {{c.Facebook}} != empty %}
+              <a href="https://www.facebook.com/{{c.Facebook}}" title="{{c.Facebook}}">
+                <i class="fa fa-facebook"></i>
+              </a>
+            {% else %}
+              <i class="fa fa-facebook"></i>
+            {% endif %}
+          </td>
+          <td class="icon">
+            {% if {{c.LinkedIn}} != empty %}
+              <a href="http://ca.linkedin.com/{{c.LinkedIn}}" title="{{c.LinkedIn}}">
+                <i class="fa fa-linkedin"></i>
+              </a>
+            {% else %}
+              <i class="fa fa-linkedin"></i>
+            {% endif %}
+          </td>
+          <td>
+            {{c.Phone}}
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% endfor %}
+  {% endif %}
+  {% endfor %}
+
+  <h2>Headlines</h2>
+  <ul>
+  {% for h in site.data.headlines %}
+    {% if h.Tags contains page.tags or h.Tags contains "all" %}
+      <li>
+        {{h.Site}}:
+        <a href="{{h.URL}}">{{h.Title}}</a>
+        ({{h.Date | date: "%b %-d"}})
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
