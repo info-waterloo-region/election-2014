@@ -16,6 +16,7 @@ paginate:         5
 author:
   name:           'Todd Turnbull'
   url:            http://info.waterlooregion.org
+  email:          info@waterlooregion.org
 
 # Custom vars
 version:          1.0.0
