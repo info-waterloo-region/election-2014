@@ -2,8 +2,9 @@
 layout: default
 title: Home
 ---
+# About
 
-* Candidate data maintained by [Social Planning Council of Kitchener-Waterloo](http://waterlooregion.org)
+* Candidate data maintained by [Social Planning Council](http://waterlooregion.org)
 * Jekyll theme is [Hyde](http://hyde.getpoole.com)
 * Icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
