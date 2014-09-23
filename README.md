@@ -12,6 +12,6 @@ A python script to generate CSV and JSON files from a Google Spreadsheet. Requir
 
 With the [Data Files](http://jekyllrb.com/docs/datafiles/) feature in GitHub Pages, we can convert `candidates.json` to HTML:
 
-* [Example web page](http://info-waterloo-region.github.io/election-2014/)
+* [Example web page](http://info.waterlooregion.org/election-2014/)
 * [GitHub Pages branch](https://github.com/info-waterloo-region/election-2014/tree/gh-pages) of this repo
 
