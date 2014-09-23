@@ -2,7 +2,10 @@
 layout: default
 title: Home
 ---
-# About
+
+# Waterloo Region Municipal Election
+
+## About
 
 * Candidate data maintained by [Social Planning Council](http://waterlooregion.org)
 * Jekyll theme is [Hyde](http://hyde.getpoole.com)
