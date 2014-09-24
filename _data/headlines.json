@@ -55,7 +55,7 @@
   }, 
   {
     "Date": "19/09/2014", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-5-profile-1.2771169", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-4-profile-1.2767355", 
     "Tags": [
       "kitchener"
     ], 
@@ -115,6 +115,15 @@
     ], 
     "Site": "The Record", 
     "Title": "Political digs, platforms mark first week of campaign"
+  }, 
+  {
+    "Date": "19/09/2014", 
+    "URL": "http://www.570news.com/2014/09/19/infrastructure-common-theme-in-cambridge-mayoral-debate/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Infrastructure common theme in Cambridge Mayoral debate"
   }, 
   {
     "Date": "18/09/2014", 
@@ -280,6 +289,15 @@
     "Title": "Final candidates are in for Oct. 27 municipal vote"
   }, 
   {
+    "Date": "17/09/2014", 
+    "URL": "http://www.570news.com/2014/09/17/mayoral-hopefuls-in-kitchener-square-off/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Mayoral hopefuls in Kitchener square off"
+  }, 
+  {
     "Date": "16/09/2014", 
     "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/regional-chair-candidate-oz-cole-arnal-wants-free-transit-for-poor-1.2768242", 
     "Tags": [
@@ -315,6 +333,15 @@
     ], 
     "Site": "The Record", 
     "Title": "More Cowan expenses referred to police"
+  }, 
+  {
+    "Date": "16/09/2014", 
+    "URL": "http://www.570news.com/2014/09/16/list-of-municipal-election-debates-on-rogers-tv/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "List of municipal election debates on Rogers TV"
   }, 
   {
     "Date": "15/09/2014", 
@@ -415,6 +442,24 @@
     ], 
     "Site": "The Record", 
     "Title": "Some jockeying as election nomination deadline looms"
+  }, 
+  {
+    "Date": "12/09/2014", 
+    "URL": "http://www.570news.com/2014/09/12/today-is-the-nomination-deadline-for-octobers-municipal-vote/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "Today is the nomination deadline for October\u2019s municipal vote"
+  }, 
+  {
+    "Date": "12/09/2014", 
+    "URL": "http://www.570news.com/2014/09/12/final-list-of-mayoral-and-regional-chair-candidates/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "Local candidates running in the October 27th municipal election"
   }, 
   {
     "Date": "11/09/2014", 
@@ -552,6 +597,24 @@
     "Title": "Shape the debate: visions vs. speaking points"
   }, 
   {
+    "Date": "04/09/2014", 
+    "URL": "http://www.570news.com/2014/09/04/jay-aissa-officially-joins-race-for-regional-chair/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "570 News", 
+    "Title": "Jay Aissa officially joins race for Regional Chair"
+  }, 
+  {
+    "Date": "31/08/2014", 
+    "URL": "http://www.570news.com/2014/08/31/paul-tavares-able-to-run-for-mayor-of-cambirdge/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Paul Tavares able to run for Mayor of Cambridge"
+  }, 
+  {
     "Date": "29/08/2014", 
     "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-north-dumfries-kim-denouden-1.2750505", 
     "Tags": [
@@ -559,6 +622,15 @@
     ], 
     "Site": "CBC", 
     "Title": "Waterloo Region Votes: 5 Questions for North Dumfries' Kim Denouden"
+  }, 
+  {
+    "Date": "29/08/2014", 
+    "URL": "http://www.570news.com/2014/08/29/galloway-running-for-regional-council-again/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "570 News", 
+    "Title": "Galloway running for regional council again"
   }, 
   {
     "Date": "28/08/2014", 
@@ -597,6 +669,15 @@
     "Title": "Kitchener Votes Ward 9: Frank Etherington"
   }, 
   {
+    "Date": "27/08/2014", 
+    "URL": "http://www.570news.com/2014/08/27/former-mp-karen-redman-running-for-regional-council/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "570 News", 
+    "Title": "Former MP Karen Redman running for regional council"
+  }, 
+  {
     "Date": "21/08/2014", 
     "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-8-margaret-johnston/", 
     "Tags": [
@@ -615,6 +696,15 @@
     "Title": "Kitchener Votes Ward 8: Zyg Janecki"
   }, 
   {
+    "Date": "21/08/2014", 
+    "URL": "http://www.570news.com/2014/08/21/a-third-candidate-running-for-mayor-in-cambridge/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "A third candidate running for mayor in Cambridge"
+  }, 
+  {
     "Date": "20/08/2014", 
     "URL": "http://www.waterloochronicle.ca/news/whaley-seeks-a-fourth-term-on-waterloo-city-council/", 
     "Tags": [
@@ -622,6 +712,24 @@
     ], 
     "Site": "Waterloo Chronicle", 
     "Title": "Whaley seeks a fourth term on Waterloo city council"
+  }, 
+  {
+    "Date": "19/08/2014", 
+    "URL": "http://www.570news.com/2014/08/19/steve-bongelli-running-in-ward-6-in-kitchener/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Steve Bongelli running in Ward 6 in Kitchener"
+  }, 
+  {
+    "Date": "15/08/2014", 
+    "URL": "http://www.570news.com/2014/08/15/whaley-files-nomination-papers/", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "570 News", 
+    "Title": "Whaley files nomination papers"
   }, 
   {
     "Date": "14/08/2014", 
@@ -676,6 +784,15 @@
     ], 
     "Site": "New Hamburg Independent", 
     "Title": "Terry Broda begins campaign to become Wilmot Township\u2019s next mayor"
+  }, 
+  {
+    "Date": "12/08/2014", 
+    "URL": "http://www.570news.com/2014/08/12/former-broadcaster-runs-for-ward-2-seat/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Former broadcaster runs for Ward 2 seat"
   }, 
   {
     "Date": "11/08/2014", 
@@ -868,21 +985,21 @@
   }, 
   {
     "Date": "04/07/2014", 
-    "URL": "http://observerxtra.com/third-candidate-enters-the-race-for-ward-4-in-wellesley/", 
-    "Tags": [
-      "wellesley"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Third candidate enters the race for Ward 4 in Wellesley"
-  }, 
-  {
-    "Date": "04/07/2014", 
     "URL": "http://www.kitchenerpost.ca/news/ward-1-candidate-currently-uncontested-2/", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "Kitchener Post", 
     "Title": "Ward 1 candidate currently uncontested"
+  }, 
+  {
+    "Date": "04/07/2014", 
+    "URL": "http://observerxtra.com/third-candidate-enters-the-race-for-ward-4-in-wellesley/", 
+    "Tags": [
+      "wellesley"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Third candidate enters the race for Ward 4 in Wellesley"
   }, 
   {
     "Date": "03/07/2014", 
@@ -910,6 +1027,24 @@
     ], 
     "Site": "ObserverXtra", 
     "Title": "Former councillor Nowak joins Wellesley mayoral race"
+  }, 
+  {
+    "Date": "20/06/2014", 
+    "URL": "http://www.570news.com/2014/06/20/rematch-in-cambridge-for-mayors-seat/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Rematch in Cambridge for Mayor\u2019s seat"
+  }, 
+  {
+    "Date": "18/06/2014", 
+    "URL": "http://www.570news.com/2014/06/18/chair-of-catholic-school-board-to-run-for-city-council/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Chair of Catholic school board to run for city council"
   }, 
   {
     "Date": "11/06/2014", 
@@ -1083,6 +1218,15 @@
     "Title": "Dear mayoral candidates: an open letter"
   }, 
   {
+    "Date": "28/03/2014", 
+    "URL": "http://www.570news.com/2014/03/28/now-three-in-race-for-kitcheners-ward-two/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Now three in race for Kitchener\u2019s Ward Two"
+  }, 
+  {
     "Date": "26/03/2014", 
     "URL": "http://www.therecord.com/news-story/4430581-mayor-doug-craig-seeking-fifth-term/", 
     "Tags": [
@@ -1090,6 +1234,33 @@
     ], 
     "Site": "The Record", 
     "Title": "Mayor Doug Craig seeking fifth term"
+  }, 
+  {
+    "Date": "25/03/2014", 
+    "URL": "http://www.570news.com/2014/03/25/craig-seeking-re-election-in-cambridge/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Craig seeking re-election in Cambridge"
+  }, 
+  {
+    "Date": "21/03/2014", 
+    "URL": "http://www.570news.com/2014/03/21/vrbanovic-to-talk-political-future/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Vrbanovic to run for Mayor of Kitchener"
+  }, 
+  {
+    "Date": "20/03/2014", 
+    "URL": "http://www.570news.com/2014/03/20/a-4th-candidate-for-mayor-of-waterloo/", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "570 News", 
+    "Title": "A 4th candidate for mayor of Waterloo"
   }, 
   {
     "Date": "19/03/2014", 
@@ -1101,6 +1272,33 @@
     "Title": "Let the election campaigns begin"
   }, 
   {
+    "Date": "07/03/2014", 
+    "URL": "http://www.570news.com/2014/03/07/cambridge-council-to-introduce-new-voting-options/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Cambridge council to introduce new voting options"
+  }, 
+  {
+    "Date": "27/02/2014", 
+    "URL": "http://www.570news.com/2014/02/27/cambridge-ward-5-councillor-pam-wolf-running-for-re-election/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Cambridge Ward 5 Councillor Pam Wolf running for re-election"
+  }, 
+  {
+    "Date": "18/02/2014", 
+    "URL": "http://www.570news.com/2014/02/18/former-waterloo-cfo-running-for-council/", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "570 News", 
+    "Title": "Former Waterloo CFO running for council"
+  }, 
+  {
     "Date": "07/02/2014", 
     "URL": "http://community.thecord.ca/blog/2014/02/07/election-watch-2014-the-lrt-has-left-the-station-time-for-candidates-to-move-on/", 
     "Tags": [
@@ -1108,6 +1306,24 @@
     ], 
     "Site": "The Cord", 
     "Title": "ELECTION WATCH 2014: The LRT has left the station"
+  }, 
+  {
+    "Date": "04/02/2014", 
+    "URL": "http://www.570news.com/2014/02/04/kitchener-will-have-a-new-mayor-in-the-fall/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Kitchener will have a new mayor in the fall"
+  }, 
+  {
+    "Date": "29/01/2014", 
+    "URL": "http://www.570news.com/2014/01/29/whos-running/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "Who\u2019s running"
   }, 
   {
     "Date": "10/01/2014", 
