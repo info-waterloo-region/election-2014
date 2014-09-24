@@ -3,6 +3,13 @@ layout: default
 ---
 
 <div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
+  <h1 class="page-title">
+    {{ page.title }}
+    {% if page.feed %}
+      <a href="http://info.waterlooregion.org/election-2014/{{page.feed}}">
+        <i class="fa fa-rss" title="Subscribe"></i>
+      </a>
+    {% endif %}
+  </h1>
   {{ content }}
 </div>
