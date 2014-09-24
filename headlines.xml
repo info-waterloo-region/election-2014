@@ -14,7 +14,7 @@ layout: null
  </author>
 {% for h in site.data.headlines %}
  <entry>
-   <title>{{h.Title}}</title>
+   <title>{{h.Site}}: {{h.Title}}</title>
    <link href="{{h.URL}}"/>
    <updated>{{h.Date | date_to_xmlschema }}</updated>
    <id>{{h.URL}}</id>
