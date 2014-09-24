@@ -6,12 +6,11 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Election 2014
-tagline:          Waterloo Region
-description:      'Maintained by <a href="http://waterlooregion.org">Social Planning Council of Kitchener-Waterloo</a>'
+title:            'Election 2014'
+description:      'October 27'
+tagline:          'October 27' 
 url:              http://info.waterlooregion.org/election-2014
 baseurl:          '/election-2014'
-paginate:         5
 
 author:
   name:           'Todd Turnbull'

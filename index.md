@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Waterloo Region Municipal Election
+# Waterloo Region Elections
 
 ## About
 
