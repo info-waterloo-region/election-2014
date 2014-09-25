@@ -3,12 +3,12 @@ layout: page
 title: Headlines
 feed: headlines.xml
 ---
-<ul style="font-size:.9em;">
+<ul>
 {% for h in site.data.headlines %}
   <li>
     {{h.Site}}:
     <a href="{{h.URL}}">{{h.Title}}</a>
-    <span style="font-size:.8em;color:#999;">{{h.Date | date: "%b %-d"}}</span>
+    <span class="post-date">{{h.Date | date: "%b %-d"}}</span>
   </li>
 {% endfor %}
 </ul>
