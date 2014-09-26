@@ -75,16 +75,6 @@
     "Cambridge": [
       {
         "Website": "", 
-        "Candidate": "Jane Brewer", 
-        "Twitter": "", 
-        "LinkedIn": "", 
-        "Phone": "519-653-3315", 
-        "Facebook": "", 
-        "Incumbent": "Incumbent", 
-        "Email": "JBrewer@regionofwaterloo.ca"
-      }, 
-      {
-        "Website": "", 
         "Candidate": "Kurt Ditner", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -727,7 +717,7 @@
         "Twitter": "SlavkoMiladinov", 
         "LinkedIn": "", 
         "Phone": "519-498-9785", 
-        "Facebook": "", 
+        "Facebook": "SlavkoMiladinovic", 
         "Incumbent": "", 
         "Email": "slavko.miladinovic@gmail.com"
       }, 
@@ -1186,14 +1176,14 @@
         "Email": "ramisaid.inc@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "erikatraub.ca", 
         "Candidate": "Erika Traub", 
         "Twitter": "ErikaTraub1", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/erika-traub/54/720/76b", 
         "Phone": "519-747-0937", 
         "Facebook": "pages/Erika-Traub-for-Mayor-of-Waterloo/783689014992319", 
         "Incumbent": "", 
-        "Email": "etraub@bell.net"
+        "Email": "info@erikatraub.ca"
       }
     ], 
     "Ward 1": [
