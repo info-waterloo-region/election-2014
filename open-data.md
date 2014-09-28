@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Open Data
+title: Open Data/Open Source
 ---
 
-## Candidates
+## Open Data
+
+### Candidates
 
 * [`candidates.csv`](https://github.com/info-waterloo-region/election-2014/blob/master/candidates.csv)
 * [`candidates.json`](https://github.com/info-waterloo-region/election-2014/blob/master/candidates.json)
 
-## Headlines
+### Headlines
 
 * [`headlines.xml`](http://info.waterlooregion.org/election-2014/headlines.xml) (Atom feed)
 * [`headlines.json`](https://github.com/info-waterloo-region/election-2014/blob/master/headlines.json)
@@ -19,6 +21,12 @@ The tools used to make this site are available on GitHub:
 
 * [Master branch]({{ site.github.repo }})
 * [GitHub Pages branch](https://github.com/info-waterloo-region/election-2014/tree/gh-pages)
+
+This site was made with:
+
+* [Jekyll](http://jekyllrb.com) and [GitHub Pages](https://pages.github.com/)
+* Jekyll theme is [Hyde](http://hyde.getpoole.com)
+* Icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ## Sources
 
