@@ -7,8 +7,9 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 * [candidates.csv](https://github.com/info-waterloo-region/election-2014/blob/master/candidates.csv)
 * [candidates.json](https://github.com/info-waterloo-region/election-2014/blob/master/candidates.json)
-* [headlines.xml](http://info.waterlooregion.org/election-2014/headlines.xml)
+* [headlines.csv](https://github.com/info-waterloo-region/election-2014/blob/master/headlines.csv)
 * [headlines.json](https://github.com/info-waterloo-region/election-2014/blob/master/headlines.json)
+* [headlines.xml](http://info.waterlooregion.org/election-2014/headlines.xml)
 
 ## Open Source
 
