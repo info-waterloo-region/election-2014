@@ -1,5 +1,134 @@
 [
   {
+    "Date": "2014-09-30", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-waterloo-ward-6-profile-1.2781747", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: Waterloo Ward 6 profile"
+  }, 
+  {
+    "Date": "2014-09-30", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4887532-cambridge-ward-4", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge Ward 4"
+  }, 
+  {
+    "Date": "2014-09-30", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4887753-cambridge-ward-5", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge Ward 5"
+  }, 
+  {
+    "Date": "2014-09-30", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4888100-cambridge-ward-6", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge Ward 6"
+  }, 
+  {
+    "Date": "2014-09-30", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4888178-cambridge-ward-7", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge Ward 7"
+  }, 
+  {
+    "Date": "2014-09-30", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4887791-two-step-verification-to-be-used-for-online-voting/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Two-step verification to be used for online voting"
+  }, 
+  {
+    "Date": "2014-09-30", 
+    "URL": "http://www.therecord.com/news-story/4888662-waterloo-region-record-municipal-election-forums/", 
+    "Tags": [
+      "cambridge", 
+      "kitchener", 
+      "waterloo", 
+      "waterloo-region"
+    ], 
+    "Site": "The Record", 
+    "Title": "Waterloo Region Record municipal election forums"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-berry-vrbanovic-running-for-mayor-of-kitchener/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "AUDIO \u2013 Getting to know Berry Vrbanovic, running for mayor of Kitchener"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-dan-glenn-graham-running-for-mayor-of-kitchener/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "AUDIO \u2013 Getting to know Dan Glenn-Graham, running for mayor of Kitchener"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-james-rhodes-running-for-mayor-of-kitchener/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "AUDIO \u2013 Getting to know James Rhodes, running for mayor of Kitchener"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-peter-martin-running-for-mayor-of-kitchener/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "AUDIO \u2013 Getting to know Peter Martin, running for mayor of Kitchener"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4886516-cambridge-ward-2", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge Ward 2"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4886760-cambridge-ward-3", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge Ward 3"
+  }, 
+  {
+    "Date": "2014-09-29", 
+    "URL": "http://www.southwesternontario.ca/news/mayoral-candidates-get-off-to-quiet-start-in-local-debate/", 
+    "Tags": [
+      "woolwich"
+    ], 
+    "Site": "Elmira Independent", 
+    "Title": "Mayoral candidates get off to quiet start in local debate"
+  }, 
+  {
     "Date": "2014-09-29", 
     "URL": "http://www.therecord.com/news-story/4886941-municipal-election-forums-in-waterloo-region-this-week/", 
     "Tags": [
@@ -14,102 +143,12 @@
   }, 
   {
     "Date": "2014-09-29", 
-    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4886760-cambridge-ward-3", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-cambridge-s-sardool-bhogal-1.2781392", 
     "Tags": [
       "cambridge"
     ], 
-    "Site": "Cambridge Times", 
-    "Title": "Cambridge Ward 3"
-  }, 
-  {
-    "Date": "2014-09-29", 
-    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4886516-cambridge-ward-2", 
-    "Tags": [
-      "cambridge"
-    ], 
-    "Site": "Cambridge Times", 
-    "Title": "Cambridge Ward 2"
-  }, 
-  {
-    "Date": "2014-09-29", 
-    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-dan-glenn-graham-running-for-mayor-of-kitchener/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "570 News", 
-    "Title": "AUDIO \u2013 Getting to know Dan Glenn-Graham, running for mayor of Kitchener"
-  }, 
-  {
-    "Date": "2014-09-29", 
-    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-peter-martin-running-for-mayor-of-kitchener/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "570 News", 
-    "Title": "AUDIO \u2013 Getting to know Peter Martin, running for mayor of Kitchener"
-  }, 
-  {
-    "Date": "2014-09-29", 
-    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-james-rhodes-running-for-mayor-of-kitchener/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "570 News", 
-    "Title": "AUDIO \u2013 Getting to know James Rhodes, running for mayor of Kitchener"
-  }, 
-  {
-    "Date": "2014-09-29", 
-    "URL": "http://www.570news.com/2014/09/29/audio-getting-to-know-berry-vrbanovic-running-for-mayor-of-kitchener/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "570 News", 
-    "Title": "AUDIO \u2013 Getting to know Berry Vrbanovic, running for mayor of Kitchener"
-  }, 
-  {
-    "Date": "2014-09-29", 
-    "URL": "http://www.southwesternontario.ca/news/mayoral-candidates-get-off-to-quiet-start-in-local-debate/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "Elmira Independent", 
-    "Title": "Mayoral candidates get off to quiet start in local debate"
-  }, 
-  {
-    "Date": "2014-09-26", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-10-profile-1.2778065", 
-    "Tags": [
-      "kitchener"
-    ], 
     "Site": "CBC", 
-    "Title": "Waterloo Region votes: Kitchener Ward 10 profile"
-  }, 
-  {
-    "Date": "2014-09-26", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/jane-brewer-s-election-withdrawal-creates-potential-quandary-1.2778851", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "CBC", 
-    "Title": "Jane Brewer's election withdrawal creates potential quandary"
-  }, 
-  {
-    "Date": "2014-09-26", 
-    "URL": "http://www.570news.com/2014/09/26/economic-development-and-out-of-the-cold-topics-at-waterloo-mayors-debate/", 
-    "Tags": [
-      "waterloo"
-    ], 
-    "Site": "570 News", 
-    "Title": "Economic development and Out of the Cold topics at Waterloo mayor\u2019s debate"
-  }, 
-  {
-    "Date": "2014-09-26", 
-    "URL": "http://observerxtra.com/candidates-stake-their-ground-in-wellesley-debate/", 
-    "Tags": [
-      "wellesley"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Candidates stake their ground in Wellesley debate"
+    "Title": "Waterloo Region Votes: 5 Questions for Cambridge's Sardool Bhogal"
   }, 
   {
     "Date": "2014-09-26", 
@@ -119,15 +158,6 @@
     ], 
     "Site": "ObserverXtra", 
     "Title": "Andrew Brenner makes it a race in Wellesley\u2019s Ward 3"
-  }, 
-  {
-    "Date": "2014-09-26", 
-    "URL": "http://observerxtra.com/newcomer-butch-voisin-takes-on-incumbent-in-wellesleys-ward-4/", 
-    "Tags": [
-      "wellesley"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Newcomer Butch Voisin takes on incumbent in Wellesley\u2019s Ward 4"
   }, 
   {
     "Date": "2014-09-26", 
@@ -157,31 +187,112 @@
     "Title": "Cambridge Ward 1"
   }, 
   {
-    "Date": "2014-09-25", 
-    "URL": "http://www.therecord.com/news-story/4878253-waterloo-region-chair-ken-seiling-takes-hits-on-lrt-growing-debt/", 
+    "Date": "2014-09-26", 
+    "URL": "http://observerxtra.com/candidates-stake-their-ground-in-wellesley-debate/", 
+    "Tags": [
+      "wellesley"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Candidates stake their ground in Wellesley debate"
+  }, 
+  {
+    "Date": "2014-09-26", 
+    "URL": "http://www.570news.com/2014/09/26/economic-development-and-out-of-the-cold-topics-at-waterloo-mayors-debate/", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "570 News", 
+    "Title": "Economic development and Out of the Cold topics at Waterloo mayor\u2019s debate"
+  }, 
+  {
+    "Date": "2014-09-26", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/jane-brewer-s-election-withdrawal-creates-potential-quandary-1.2778851", 
     "Tags": [
       "waterloo-region"
     ], 
-    "Site": "The Record", 
-    "Title": "Waterloo Region chair Ken Seiling takes hits on LRT, growing debt"
+    "Site": "CBC", 
+    "Title": "Jane Brewer's election withdrawal creates potential quandary"
+  }, 
+  {
+    "Date": "2014-09-26", 
+    "URL": "http://observerxtra.com/newcomer-butch-voisin-takes-on-incumbent-in-wellesleys-ward-4/", 
+    "Tags": [
+      "wellesley"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Newcomer Butch Voisin takes on incumbent in Wellesley\u2019s Ward 4"
+  }, 
+  {
+    "Date": "2014-09-26", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-10-profile-1.2778065", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: Kitchener Ward 10 profile"
   }, 
   {
     "Date": "2014-09-25", 
-    "URL": "http://www.therecord.com/news-story/4879326-longtime-cambridge-politician-jane-brewer-bows-out-of-waterloo-region-council-race/", 
+    "URL": "http://www.570news.com/2014/09/25/36-year-veteran-jane-brewer-drops-out-of-municipal-election/", 
     "Tags": [
       "waterloo-region"
     ], 
-    "Site": "The Record", 
-    "Title": "Longtime Cambridge politician Jane Brewer bows out of Waterloo Region council race"
+    "Site": "570 News", 
+    "Title": "36-year veteran Jane Brewer drops out of municipal election"
   }, 
   {
     "Date": "2014-09-25", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-5-trysha-wharton/", 
+    "URL": "http://www.cambridgetimes.ca/opinion-story/4879691-brewer-millar-dedicated-to-cambridge/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Brewer & Millar: Dedicated to Cambridge"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.570news.com/2014/09/25/cambridge-introduces-online-and-telephone-voting-for-oct-27th-election/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Cambridge introduces online and telephone voting for Oct. 27th election"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/dave-macdonald-wants-to-fight-lrt-6-months-after-saying-he-wouldn-t-1.2778402", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "CBC", 
+    "Title": "Dave MacDonald wants to fight LRT, 6 months after saying he wouldn't"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.570news.com/2014/09/25/debate-for-regional-chair-gets-heated-over-lrt/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "570 News", 
+    "Title": "Debate for regional chair gets heated over LRT"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4878075-jane-brewer-bows-out-of-regional-council-race/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Jane Brewer bows out of regional council race"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-mayoral-race-slavko-miladinovic/", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 5: Trysha Wharton"
+    "Title": "Kitchener Votes Mayoral race: Slavko Miladinovic"
   }, 
   {
     "Date": "2014-09-25", 
@@ -194,12 +305,30 @@
   }, 
   {
     "Date": "2014-09-25", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-mayoral-race-slavko-miladinovic/", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-5-trysha-wharton/", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Mayoral race: Slavko Miladinovic"
+    "Title": "Kitchener Votes Ward 5: Trysha Wharton"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.therecord.com/news-story/4879326-longtime-cambridge-politician-jane-brewer-bows-out-of-waterloo-region-council-race/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "The Record", 
+    "Title": "Longtime Cambridge politician Jane Brewer bows out of Waterloo Region council race"
+  }, 
+  {
+    "Date": "2014-09-25", 
+    "URL": "http://www.therecord.com/news-story/4878253-waterloo-region-chair-ken-seiling-takes-hits-on-lrt-growing-debt/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "The Record", 
+    "Title": "Waterloo Region chair Ken Seiling takes hits on LRT, growing debt"
   }, 
   {
     "Date": "2014-09-25", 
@@ -221,33 +350,6 @@
   }, 
   {
     "Date": "2014-09-25", 
-    "URL": "http://www.570news.com/2014/09/25/debate-for-regional-chair-gets-heated-over-lrt/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "570 News", 
-    "Title": "Debate for regional chair gets heated over LRT"
-  }, 
-  {
-    "Date": "2014-09-25", 
-    "URL": "http://www.570news.com/2014/09/25/36-year-veteran-jane-brewer-drops-out-of-municipal-election/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "570 News", 
-    "Title": "36-year veteran Jane Brewer drops out of municipal election"
-  }, 
-  {
-    "Date": "2014-09-25", 
-    "URL": "http://www.570news.com/2014/09/25/cambridge-introduces-online-and-telephone-voting-for-oct-27th-election/", 
-    "Tags": [
-      "cambridge"
-    ], 
-    "Site": "570 News", 
-    "Title": "Cambridge introduces online and telephone voting for Oct. 27th election"
-  }, 
-  {
-    "Date": "2014-09-25", 
     "URL": "http://metronews.ca/news/kitchener/1165991/waterloo-regional-chair-takes-flak-at-debate-on-lrt-growing-debt/", 
     "Tags": [
       "waterloo-region"
@@ -257,93 +359,21 @@
   }, 
   {
     "Date": "2014-09-25", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/dave-macdonald-wants-to-fight-lrt-6-months-after-saying-he-wouldn-t-1.2778402", 
+    "URL": "http://www.therecord.com/news-story/4882256-taxation-light-rail-key-issues-for-waterloo-mayoral-candidates/", 
     "Tags": [
       "waterloo"
     ], 
-    "Site": "CBC", 
-    "Title": "Dave MacDonald wants to fight LRT, 6 months after saying he wouldn't"
-  }, 
-  {
-    "Date": "2014-09-25", 
-    "URL": "http://www.cambridgetimes.ca/opinion-story/4879691-brewer-millar-dedicated-to-cambridge/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Cambridge Times", 
-    "Title": "Brewer & Millar: Dedicated to Cambridge"
-  }, 
-  {
-    "Date": "2014-09-25", 
-    "URL": "http://www.cambridgetimes.ca/news-story/4878075-jane-brewer-bows-out-of-regional-council-race/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Cambridge Times", 
-    "Title": "Jane Brewer bows out of regional council race"
+    "Site": "The Record", 
+    "Title": "Taxation, light rail key issues for Waterloo mayoral candidates"
   }, 
   {
     "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/race-for-regional-chair-the-largest-in-history/", 
+    "URL": "http://www.570news.com/2014/09/24/chamber-of-commerce-hosting-series-of-municipal-election-debates/", 
     "Tags": [
       "waterloo-region"
     ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Race for regional chair the largest in history"
-  }, 
-  {
-    "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/regional-chair-oscar-cole-arnal/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Regional Chair: Oscar Cole-Arnal"
-  }, 
-  {
-    "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/regional-chair-ken-seiling/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Regional Chair: Ken Seiling"
-  }, 
-  {
-    "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/regional-chair-jay-aissa/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Regional Chair: Jay Aissa"
-  }, 
-  {
-    "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/regional-chair-moira-sharon-magee/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Regional Chair: Moira-Sharon Magee"
-  }, 
-  {
-    "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/regional-chair-john-wolf/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Regional Chair: John Wolf"
-  }, 
-  {
-    "Date": "2014-09-24", 
-    "URL": "http://www.waterloochronicle.ca/news/regional-chair-robert-milligan/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Regional Chair: Robert Milligan"
+    "Site": "570 News", 
+    "Title": "Chamber of Commerce hosting series of municipal election debates"
   }, 
   {
     "Date": "2014-09-24", 
@@ -356,12 +386,66 @@
   }, 
   {
     "Date": "2014-09-24", 
-    "URL": "http://www.570news.com/2014/09/24/chamber-of-commerce-hosting-series-of-municipal-election-debates/", 
+    "URL": "http://www.waterloochronicle.ca/news/race-for-regional-chair-the-largest-in-history/", 
     "Tags": [
       "waterloo-region"
     ], 
-    "Site": "570 News", 
-    "Title": "Chamber of Commerce hosting series of municipal election debates"
+    "Site": "Waterloo Chronicle", 
+    "Title": "Race for regional chair the largest in history"
+  }, 
+  {
+    "Date": "2014-09-24", 
+    "URL": "http://www.waterloochronicle.ca/news/regional-chair-jay-aissa/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Regional Chair: Jay Aissa"
+  }, 
+  {
+    "Date": "2014-09-24", 
+    "URL": "http://www.waterloochronicle.ca/news/regional-chair-john-wolf/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Regional Chair: John Wolf"
+  }, 
+  {
+    "Date": "2014-09-24", 
+    "URL": "http://www.waterloochronicle.ca/news/regional-chair-ken-seiling/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Regional Chair: Ken Seiling"
+  }, 
+  {
+    "Date": "2014-09-24", 
+    "URL": "http://www.waterloochronicle.ca/news/regional-chair-moira-sharon-magee/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Regional Chair: Moira-Sharon Magee"
+  }, 
+  {
+    "Date": "2014-09-24", 
+    "URL": "http://www.waterloochronicle.ca/news/regional-chair-oscar-cole-arnal/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Regional Chair: Oscar Cole-Arnal"
+  }, 
+  {
+    "Date": "2014-09-24", 
+    "URL": "http://www.waterloochronicle.ca/news/regional-chair-robert-milligan/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Regional Chair: Robert Milligan"
   }, 
   {
     "Date": "2014-09-23", 
@@ -373,13 +457,13 @@
     "Title": "Waterloo Region votes: Kitchener Ward 9 profile"
   }, 
   {
-    "Date": "2014-09-22", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-3-profile-1.2773381", 
+    "Date": "2014-09-23", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-kitchener-s-slavko-miladinovic-1.2769084", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "CBC", 
-    "Title": "Waterloo Region votes: Kitchener Ward 3 profile"
+    "Title": "Waterloo Region Votes: 5 Questions for Kitchener's Slavko Miladinovic"
   }, 
   {
     "Date": "2014-09-22", 
@@ -391,13 +475,13 @@
     "Title": "Vrbanovic makes second policy announcement"
   }, 
   {
-    "Date": "2014-09-21", 
-    "URL": "http://www.southwesternontario.ca/news/regional-chair-candidate-facing-trio-of-charges/", 
+    "Date": "2014-09-22", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-3-profile-1.2773381", 
     "Tags": [
-      "waterloo-region"
+      "kitchener"
     ], 
-    "Site": "Cambridge Times", 
-    "Title": "Regional chair candidate facing trio of charges"
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: Kitchener Ward 3 profile"
   }, 
   {
     "Date": "2014-09-21", 
@@ -418,6 +502,15 @@
     "Title": "Investigation of mayor\u2019s expenses totals $25,000"
   }, 
   {
+    "Date": "2014-09-21", 
+    "URL": "http://www.southwesternontario.ca/news/regional-chair-candidate-facing-trio-of-charges/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Regional chair candidate facing trio of charges"
+  }, 
+  {
     "Date": "2014-09-20", 
     "URL": "http://www.therecord.com/news-story/4871568-north-dumfries-mayor-calls-for-code-of-conduct-for-regional-councillors/", 
     "Tags": [
@@ -427,40 +520,13 @@
     "Title": "North Dumfries mayor calls for code of conduct for regional councillors"
   }, 
   {
-    "Date": "2014-09-19", 
-    "URL": "http://www.570news.com/2014/09/19/infrastructure-common-theme-in-cambridge-mayoral-debate/", 
-    "Tags": [
-      "cambridge"
-    ], 
-    "Site": "570 News", 
-    "Title": "Infrastructure common theme in Cambridge Mayoral debate"
-  }, 
-  {
-    "Date": "2014-09-19", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-4-profile-1.2767355", 
+    "Date": "2014-09-20", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-kitchener-s-james-rhodes-1.2771920", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "CBC", 
-    "Title": "Waterloo Region votes: Kitchener Ward 4 profile"
-  }, 
-  {
-    "Date": "2014-09-19", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-5-profile-1.2771169", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "CBC", 
-    "Title": "Waterloo Region votes: Kitchener Ward 5 profile"
-  }, 
-  {
-    "Date": "2014-09-19", 
-    "URL": "http://observerxtra.com/the-public-is-the-boss-says-woolwich-mayoral-candidate/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "The public is the boss, says Woolwich mayoral candidate"
+    "Title": "Waterloo Region Votes: 5 Questions for Kitchener's James Rhodes"
   }, 
   {
     "Date": "2014-09-19", 
@@ -470,6 +536,15 @@
     ], 
     "Site": "ObserverXtra", 
     "Title": "Cowan\u2019s GRCA expenses deemed suspect, sent to police"
+  }, 
+  {
+    "Date": "2014-09-19", 
+    "URL": "http://www.570news.com/2014/09/19/infrastructure-common-theme-in-cambridge-mayoral-debate/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Infrastructure common theme in Cambridge Mayoral debate"
   }, 
   {
     "Date": "2014-09-19", 
@@ -499,31 +574,40 @@
     "Title": "Political digs, platforms mark first week of campaign"
   }, 
   {
-    "Date": "2014-09-18", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-7-profile-1.2769437", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "CBC", 
-    "Title": "Waterloo Region votes: Kitchener Ward 7 profile"
-  }, 
-  {
-    "Date": "2014-09-18", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/todd-cowan-woolwich-mayor-faces-new-double-billing-allegations-1.2770002", 
+    "Date": "2014-09-19", 
+    "URL": "http://observerxtra.com/the-public-is-the-boss-says-woolwich-mayoral-candidate/", 
     "Tags": [
       "woolwich"
     ], 
-    "Site": "CBC", 
-    "Title": "Todd Cowan, Woolwich mayor, faces new double-billing allegations"
+    "Site": "ObserverXtra", 
+    "Title": "The public is the boss, says Woolwich mayoral candidate"
   }, 
   {
-    "Date": "2014-09-18", 
-    "URL": "http://news.communitech.ca/columns/view-from-the-loo-carl-zehr-innovation-mayor-prepares-his-exit/", 
+    "Date": "2014-09-19", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-4-profile-1.2767355", 
     "Tags": [
       "kitchener"
     ], 
-    "Site": "Communitech", 
-    "Title": "View from the \u2018Loo: Carl Zehr, innovation mayor, prepares his exit"
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: Kitchener Ward 4 profile"
+  }, 
+  {
+    "Date": "2014-09-19", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-5-profile-1.2771169", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: Kitchener Ward 5 profile"
+  }, 
+  {
+    "Date": "2014-09-18", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-regional-chair-jay-aissa/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Regional chair: Jay Aissa"
   }, 
   {
     "Date": "2014-09-18", 
@@ -545,30 +629,21 @@
   }, 
   {
     "Date": "2014-09-18", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-regional-chair-oscar-cole-arnal/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Regional chair: Oscar Cole-Arnal"
-  }, 
-  {
-    "Date": "2014-09-18", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-regional-chair-jay-aissa/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Regional chair: Jay Aissa"
-  }, 
-  {
-    "Date": "2014-09-18", 
     "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-regional-chair-moira-sharon-magee/", 
     "Tags": [
       "waterloo-region"
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Regional chair: Moira-Sharon Magee"
+  }, 
+  {
+    "Date": "2014-09-18", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-regional-chair-oscar-cole-arnal/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Regional chair: Oscar Cole-Arnal"
   }, 
   {
     "Date": "2014-09-18", 
@@ -590,12 +665,12 @@
   }, 
   {
     "Date": "2014-09-18", 
-    "URL": "http://www.therecord.com/news-story/4869528-mayor-cowan-calls-double-billed-expense-claims-an-inadvertent-error-/", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/todd-cowan-woolwich-mayor-faces-new-double-billing-allegations-1.2770002", 
     "Tags": [
       "woolwich"
     ], 
-    "Site": "The Record", 
-    "Title": "Woolwich Mayor Cowan calls double-billed expense claims \u2018an inadvertent error\u2019"
+    "Site": "CBC", 
+    "Title": "Todd Cowan, Woolwich mayor, faces new double-billing allegations"
   }, 
   {
     "Date": "2014-09-18", 
@@ -607,49 +682,31 @@
     "Title": "Transportation issues key to Doug Craig\u2019s mayoral campaign"
   }, 
   {
-    "Date": "2014-09-17", 
-    "URL": "http://www.570news.com/2014/09/17/mayoral-hopefuls-in-kitchener-square-off/", 
+    "Date": "2014-09-18", 
+    "URL": "http://news.communitech.ca/columns/view-from-the-loo-carl-zehr-innovation-mayor-prepares-his-exit/", 
     "Tags": [
       "kitchener"
     ], 
-    "Site": "570 News", 
-    "Title": "Mayoral hopefuls in Kitchener square off"
+    "Site": "Communitech", 
+    "Title": "View from the \u2018Loo: Carl Zehr, innovation mayor, prepares his exit"
   }, 
   {
-    "Date": "2014-09-17", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-2-profile-1.2768640", 
+    "Date": "2014-09-18", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-7-profile-1.2769437", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "CBC", 
-    "Title": "Waterloo Region votes: Kitchener Ward 2 profile"
+    "Title": "Waterloo Region votes: Kitchener Ward 7 profile"
   }, 
   {
-    "Date": "2014-09-17", 
-    "URL": "http://community.thecord.ca/blog/2014/09/17/waterloo-region-votes-all-candidates/", 
+    "Date": "2014-09-18", 
+    "URL": "http://www.therecord.com/news-story/4869528-mayor-cowan-calls-double-billed-expense-claims-an-inadvertent-error-/", 
     "Tags": [
-      "all"
-    ], 
-    "Site": "The Cord", 
-    "Title": "Waterloo Region votes: All candidates"
-  }, 
-  {
-    "Date": "2014-09-17", 
-    "URL": "http://www.therecord.com/news-story/4865455-full-slate-of-candidates-in-the-running-for-north-dumfries-council/", 
-    "Tags": [
-      "north-dumfries"
+      "woolwich"
     ], 
     "Site": "The Record", 
-    "Title": "Full slate of candidates in the running for North Dumfries council"
-  }, 
-  {
-    "Date": "2014-09-17", 
-    "URL": "http://www.therecord.com/opinion-story/4865442-new-faces-at-regional-council-dynamic-about-to-change/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "The Record", 
-    "Title": "New faces at regional council, dynamic about to change"
+    "Title": "Woolwich Mayor Cowan calls double-billed expense claims \u2018an inadvertent error\u2019"
   }, 
   {
     "Date": "2014-09-17", 
@@ -671,22 +728,58 @@
     "Title": "Final candidates are in for Oct. 27 municipal vote"
   }, 
   {
-    "Date": "2014-09-16", 
-    "URL": "http://www.570news.com/2014/09/16/list-of-municipal-election-debates-on-rogers-tv/", 
+    "Date": "2014-09-17", 
+    "URL": "http://www.therecord.com/news-story/4865455-full-slate-of-candidates-in-the-running-for-north-dumfries-council/", 
     "Tags": [
-      "all"
+      "north-dumfries"
     ], 
-    "Site": "570 News", 
-    "Title": "List of municipal election debates on Rogers TV"
+    "Site": "The Record", 
+    "Title": "Full slate of candidates in the running for North Dumfries council"
   }, 
   {
-    "Date": "2014-09-16", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/regional-chair-candidate-oz-cole-arnal-wants-free-transit-for-poor-1.2768242", 
+    "Date": "2014-09-17", 
+    "URL": "http://www.570news.com/2014/09/17/mayoral-hopefuls-in-kitchener-square-off/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Mayoral hopefuls in Kitchener square off"
+  }, 
+  {
+    "Date": "2014-09-17", 
+    "URL": "http://www.therecord.com/opinion-story/4865442-new-faces-at-regional-council-dynamic-about-to-change/", 
     "Tags": [
       "waterloo-region"
     ], 
+    "Site": "The Record", 
+    "Title": "New faces at regional council, dynamic about to change"
+  }, 
+  {
+    "Date": "2014-09-17", 
+    "URL": "http://community.thecord.ca/blog/2014/09/17/waterloo-region-votes-all-candidates/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "The Cord", 
+    "Title": "Waterloo Region votes: All candidates"
+  }, 
+  {
+    "Date": "2014-09-17", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-kitchener-ward-2-profile-1.2768640", 
+    "Tags": [
+      "kitchener"
+    ], 
     "Site": "CBC", 
-    "Title": "Regional chair candidate Oz Cole-Arnal wants free transit for poor"
+    "Title": "Waterloo Region votes: Kitchener Ward 2 profile"
+  }, 
+  {
+    "Date": "2014-09-17", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-woolwich-s-doug-hergott-1.2769019", 
+    "Tags": [
+      "woolwich"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region Votes: 5 Questions for Woolwich's Doug Hergott"
   }, 
   {
     "Date": "2014-09-16", 
@@ -709,12 +802,30 @@
   }, 
   {
     "Date": "2014-09-16", 
+    "URL": "http://www.570news.com/2014/09/16/list-of-municipal-election-debates-on-rogers-tv/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "List of municipal election debates on Rogers TV"
+  }, 
+  {
+    "Date": "2014-09-16", 
     "URL": "http://www.therecord.com/news-story/4863853-more-cowan-expenses-referred-to-police/", 
     "Tags": [
       "woolwich"
     ], 
     "Site": "The Record", 
     "Title": "More Cowan expenses referred to police"
+  }, 
+  {
+    "Date": "2014-09-16", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/regional-chair-candidate-oz-cole-arnal-wants-free-transit-for-poor-1.2768242", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "CBC", 
+    "Title": "Regional chair candidate Oz Cole-Arnal wants free transit for poor"
   }, 
   {
     "Date": "2014-09-15", 
@@ -737,84 +848,12 @@
   }, 
   {
     "Date": "2014-09-12", 
-    "URL": "http://www.570news.com/2014/09/12/today-is-the-nomination-deadline-for-octobers-municipal-vote/", 
-    "Tags": [
-      "all"
-    ], 
-    "Site": "570 News", 
-    "Title": "Today is the nomination deadline for October\u2019s municipal vote"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://www.570news.com/2014/09/12/final-list-of-mayoral-and-regional-chair-candidates/", 
-    "Tags": [
-      "all"
-    ], 
-    "Site": "570 News", 
-    "Title": "Local candidates running in the October 27th municipal election"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-municipal-election-candidate-list-finalized-1.2764792", 
-    "Tags": [
-      "all"
-    ], 
-    "Site": "CBC", 
-    "Title": "Waterloo Region municipal election candidate list finalized"
-  }, 
-  {
-    "Date": "2014-09-12", 
     "URL": "http://observerxtra.com/and-then-there-were-six-in-woolwich-ward-1-race/", 
     "Tags": [
       "woolwich"
     ], 
     "Site": "ObserverXtra", 
     "Title": "And then there were six in Woolwich Ward 1 race"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://observerxtra.com/murray-martin-jumps-into-ward-3-race-for-woolwich-council/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Murray Martin jumps into Ward 3 race for Woolwich council"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://observerxtra.com/ward-1-candidate-sees-need-for-stronger-representation/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Ward 1 candidate sees need for stronger representation"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://observerxtra.com/report-paints-unflattering-picture-of-mayors-handling-of-expenses/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Report paints unflattering picture of mayor\u2019s handling of expenses"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://observerxtra.com/police-asked-to-investigate-cowans-expense-claims/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Police asked to investigate Cowan\u2019s expense claims"
-  }, 
-  {
-    "Date": "2014-09-12", 
-    "URL": "http://www.therecord.com/news-story/4858622-struggling-families-face-rising-taxes-water-bills/", 
-    "Tags": [
-      "all"
-    ], 
-    "Site": "The Record", 
-    "Title": "Struggling families face rising taxes, water bills"
   }, 
   {
     "Date": "2014-09-12", 
@@ -827,12 +866,84 @@
   }, 
   {
     "Date": "2014-09-12", 
+    "URL": "http://www.570news.com/2014/09/12/final-list-of-mayoral-and-regional-chair-candidates/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "Local candidates running in the October 27th municipal election"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://observerxtra.com/murray-martin-jumps-into-ward-3-race-for-woolwich-council/", 
+    "Tags": [
+      "woolwich"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Murray Martin jumps into Ward 3 race for Woolwich council"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://observerxtra.com/police-asked-to-investigate-cowans-expense-claims/", 
+    "Tags": [
+      "woolwich"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Police asked to investigate Cowan\u2019s expense claims"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://observerxtra.com/report-paints-unflattering-picture-of-mayors-handling-of-expenses/", 
+    "Tags": [
+      "woolwich"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Report paints unflattering picture of mayor\u2019s handling of expenses"
+  }, 
+  {
+    "Date": "2014-09-12", 
     "URL": "http://www.therecord.com/news-story/4857131-some-jockeying-as-election-nomination-deadline-looms/", 
     "Tags": [
       "all"
     ], 
     "Site": "The Record", 
     "Title": "Some jockeying as election nomination deadline looms"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://www.therecord.com/news-story/4858622-struggling-families-face-rising-taxes-water-bills/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "The Record", 
+    "Title": "Struggling families face rising taxes, water bills"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://www.570news.com/2014/09/12/today-is-the-nomination-deadline-for-octobers-municipal-vote/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "Today is the nomination deadline for October\u2019s municipal vote"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://observerxtra.com/ward-1-candidate-sees-need-for-stronger-representation/", 
+    "Tags": [
+      "woolwich"
+    ], 
+    "Site": "ObserverXtra", 
+    "Title": "Ward 1 candidate sees need for stronger representation"
+  }, 
+  {
+    "Date": "2014-09-12", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-municipal-election-candidate-list-finalized-1.2764792", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region municipal election candidate list finalized"
   }, 
   {
     "Date": "2014-09-11", 
@@ -842,6 +953,15 @@
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Mayoral Race: Berry Vrbanovic"
+  }, 
+  {
+    "Date": "2014-09-11", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-mayoral-race-dan-glenn-graham/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Mayoral Race: Dan Glenn-Graham"
   }, 
   {
     "Date": "2014-09-11", 
@@ -860,15 +980,6 @@
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Mayoral Race: Peter Martin"
-  }, 
-  {
-    "Date": "2014-09-11", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-mayoral-race-dan-glenn-graham/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Mayoral Race: Dan Glenn-Graham"
   }, 
   {
     "Date": "2014-09-10", 
@@ -908,21 +1019,21 @@
   }, 
   {
     "Date": "2014-09-05", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-wilmot-s-terry-broda-1.2756814", 
-    "Tags": [
-      "wilmot"
-    ], 
-    "Site": "CBC", 
-    "Title": "Waterloo Region Votes: 5 questions for Wilmot's Terry Broda"
-  }, 
-  {
-    "Date": "2014-09-05", 
     "URL": "http://observerxtra.com/poffenroth-to-seek-second-term/", 
     "Tags": [
       "woolwich"
     ], 
     "Site": "ObserverXtra", 
     "Title": "Poffenroth to seek second term"
+  }, 
+  {
+    "Date": "2014-09-05", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-wilmot-s-terry-broda-1.2756814", 
+    "Tags": [
+      "wilmot"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region Votes: 5 questions for Wilmot's Terry Broda"
   }, 
   {
     "Date": "2014-09-05", 
@@ -944,15 +1055,6 @@
   }, 
   {
     "Date": "2014-09-04", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-10-sarah-marsh/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 10: Sarah Marsh"
-  }, 
-  {
-    "Date": "2014-09-04", 
     "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-10-adam-kochanski/", 
     "Tags": [
       "kitchener"
@@ -968,6 +1070,15 @@
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Ward 10: James Howe"
+  }, 
+  {
+    "Date": "2014-09-04", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-10-sarah-marsh/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Ward 10: Sarah Marsh"
   }, 
   {
     "Date": "2014-09-04", 
@@ -1016,6 +1127,15 @@
   }, 
   {
     "Date": "2014-08-28", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-9-frank-etherington/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Ward 9: Frank Etherington"
+  }, 
+  {
+    "Date": "2014-08-28", 
     "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-9-steve-strohack/", 
     "Tags": [
       "kitchener"
@@ -1040,15 +1160,6 @@
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Ward 9: Tessa Jennison"
-  }, 
-  {
-    "Date": "2014-08-28", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-9-frank-etherington/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 9: Frank Etherington"
   }, 
   {
     "Date": "2014-08-27", 
@@ -1115,21 +1226,21 @@
   }, 
   {
     "Date": "2014-08-14", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-7-fauzia-mazhar/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 7: Fauzia Mazhar"
-  }, 
-  {
-    "Date": "2014-08-14", 
     "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-7-bil-ioannidis/", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Ward 7: Bil Ioannidis"
+  }, 
+  {
+    "Date": "2014-08-14", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-7-fauzia-mazhar/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Ward 7: Fauzia Mazhar"
   }, 
   {
     "Date": "2014-08-14", 
@@ -1142,21 +1253,21 @@
   }, 
   {
     "Date": "2014-08-13", 
-    "URL": "http://www.waterloochronicle.ca/news/former-student-challenging-seiling-for-regional-chair-post/", 
-    "Tags": [
-      "waterloo-region"
-    ], 
-    "Site": "Waterloo Chronicle", 
-    "Title": "Former student challenging Seiling for regional chair post"
-  }, 
-  {
-    "Date": "2014-08-13", 
     "URL": "http://www.waterloochronicle.ca/news/first-candidate-declares-in-ward-5/", 
     "Tags": [
       "waterloo"
     ], 
     "Site": "Waterloo Chronicle", 
     "Title": "First candidate declares in Ward 5"
+  }, 
+  {
+    "Date": "2014-08-13", 
+    "URL": "http://www.waterloochronicle.ca/news/former-student-challenging-seiling-for-regional-chair-post/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Waterloo Chronicle", 
+    "Title": "Former student challenging Seiling for regional chair post"
   }, 
   {
     "Date": "2014-08-12", 
@@ -1178,21 +1289,21 @@
   }, 
   {
     "Date": "2014-08-11", 
-    "URL": "http://community.thecord.ca/blog/2014/08/11/wild-politics-in-kitchener/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "The Cord", 
-    "Title": "Wild politics in Kitchener"
-  }, 
-  {
-    "Date": "2014-08-11", 
     "URL": "http://community.thecord.ca/blog/2014/08/11/shape-the-debate/", 
     "Tags": [
       "all"
     ], 
     "Site": "The Cord", 
     "Title": "Shape the debate"
+  }, 
+  {
+    "Date": "2014-08-11", 
+    "URL": "http://community.thecord.ca/blog/2014/08/11/wild-politics-in-kitchener/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Cord", 
+    "Title": "Wild politics in Kitchener"
   }, 
   {
     "Date": "2014-08-10", 
@@ -1202,15 +1313,6 @@
     ], 
     "Site": "CBC", 
     "Title": "Waterloo Region Votes: 5 Questions for Wellesley's Joe Nowak"
-  }, 
-  {
-    "Date": "2014-08-07", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-woolwich-s-bonnie-bryant-1.2728902", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "CBC", 
-    "Title": "Waterloo Region Votes: 5 Questions for Woolwich's Bonnie Bryant"
   }, 
   {
     "Date": "2014-08-07", 
@@ -1231,13 +1333,13 @@
     "Title": "Kitchener Votes Ward 6: Wanda Kampijan"
   }, 
   {
-    "Date": "2014-07-31", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-5-lala-malik/", 
+    "Date": "2014-08-07", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-woolwich-s-bonnie-bryant-1.2728902", 
     "Tags": [
-      "kitchener"
+      "woolwich"
     ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 5: Lala Malik"
+    "Site": "CBC", 
+    "Title": "Waterloo Region Votes: 5 Questions for Woolwich's Bonnie Bryant"
   }, 
   {
     "Date": "2014-07-31", 
@@ -1247,6 +1349,15 @@
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Ward 5: Kelly Galloway-Sealock"
+  }, 
+  {
+    "Date": "2014-07-31", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-5-lala-malik/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Ward 5: Lala Malik"
   }, 
   {
     "Date": "2014-07-25", 
@@ -1268,21 +1379,21 @@
   }, 
   {
     "Date": "2014-07-24", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-4-yvonne-fernandes/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 4: Yvonne Fernandes"
-  }, 
-  {
-    "Date": "2014-07-24", 
     "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-4-wayne-buchholtz/", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Ward 4: Wayne Buchholtz"
+  }, 
+  {
+    "Date": "2014-07-24", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-4-yvonne-fernandes/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Ward 4: Yvonne Fernandes"
   }, 
   {
     "Date": "2014-07-18", 
@@ -1304,15 +1415,6 @@
   }, 
   {
     "Date": "2014-07-11", 
-    "URL": "http://observerxtra.com/ward-3s-bryant-seeks-woolwich-mayors-seat/", 
-    "Tags": [
-      "woolwich"
-    ], 
-    "Site": "ObserverXtra", 
-    "Title": "Ward 3\u2019s Bryant seeks Woolwich mayor\u2019s seat"
-  }, 
-  {
-    "Date": "2014-07-11", 
     "URL": "http://observerxtra.com/another-candidate-joins-race-for-woolwichs-ward-3/", 
     "Tags": [
       "woolwich"
@@ -1321,13 +1423,13 @@
     "Title": "Another candidate joins race for Woolwich\u2019s Ward 3"
   }, 
   {
-    "Date": "2014-07-10", 
-    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-2-grayson-zeilstra/", 
+    "Date": "2014-07-11", 
+    "URL": "http://observerxtra.com/ward-3s-bryant-seeks-woolwich-mayors-seat/", 
     "Tags": [
-      "kitchener"
+      "woolwich"
     ], 
-    "Site": "Kitchener Post", 
-    "Title": "Kitchener Votes Ward 2: Grayson Zeilstra"
+    "Site": "ObserverXtra", 
+    "Title": "Ward 3\u2019s Bryant seeks Woolwich mayor\u2019s seat"
   }, 
   {
     "Date": "2014-07-10", 
@@ -1346,6 +1448,15 @@
     ], 
     "Site": "Kitchener Post", 
     "Title": "Kitchener Votes Ward 2: Dan Graham"
+  }, 
+  {
+    "Date": "2014-07-10", 
+    "URL": "http://www.kitchenerpost.ca/news/kitchener-votes-ward-2-grayson-zeilstra/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Kitchener Votes Ward 2: Grayson Zeilstra"
   }, 
   {
     "Date": "2014-07-09", 
@@ -1367,21 +1478,21 @@
   }, 
   {
     "Date": "2014-07-04", 
-    "URL": "http://www.kitchenerpost.ca/news/ward-1-candidate-currently-uncontested-2/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "Kitchener Post", 
-    "Title": "Ward 1 candidate currently uncontested"
-  }, 
-  {
-    "Date": "2014-07-04", 
     "URL": "http://observerxtra.com/third-candidate-enters-the-race-for-ward-4-in-wellesley/", 
     "Tags": [
       "wellesley"
     ], 
     "Site": "ObserverXtra", 
     "Title": "Third candidate enters the race for Ward 4 in Wellesley"
+  }, 
+  {
+    "Date": "2014-07-04", 
+    "URL": "http://www.kitchenerpost.ca/news/ward-1-candidate-currently-uncontested-2/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Ward 1 candidate currently uncontested"
   }, 
   {
     "Date": "2014-07-03", 
@@ -1403,21 +1514,21 @@
   }, 
   {
     "Date": "2014-06-20", 
-    "URL": "http://www.570news.com/2014/06/20/rematch-in-cambridge-for-mayors-seat/", 
-    "Tags": [
-      "cambridge"
-    ], 
-    "Site": "570 News", 
-    "Title": "Rematch in Cambridge for Mayor\u2019s seat"
-  }, 
-  {
-    "Date": "2014-06-20", 
     "URL": "http://observerxtra.com/former-councillor-nowak-joins-wellesley-mayoral-race/", 
     "Tags": [
       "wellesley"
     ], 
     "Site": "ObserverXtra", 
     "Title": "Former councillor Nowak joins Wellesley mayoral race"
+  }, 
+  {
+    "Date": "2014-06-20", 
+    "URL": "http://www.570news.com/2014/06/20/rematch-in-cambridge-for-mayors-seat/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "570 News", 
+    "Title": "Rematch in Cambridge for Mayor\u2019s seat"
   }, 
   {
     "Date": "2014-06-18", 
@@ -1556,21 +1667,21 @@
   }, 
   {
     "Date": "2014-04-30", 
-    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-north-dumfries-sue-foxton-1.2625755", 
-    "Tags": [
-      "north-dumfries"
-    ], 
-    "Site": "CBC", 
-    "Title": "Waterloo Region votes: 5 questions for North Dumfries' Sue Foxton"
-  }, 
-  {
-    "Date": "2014-04-30", 
     "URL": "http://www.newhamburgindependent.ca/news/kelterborn-will-retire-as-two-councillors-compete-to-become-wellesley-mayor/", 
     "Tags": [
       "wellesley"
     ], 
     "Site": "New Hamburg Independent", 
     "Title": "Ross Kelterborn will retire as two councillors compete to become Wellesley\u2019s next mayor"
+  }, 
+  {
+    "Date": "2014-04-30", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-5-questions-for-north-dumfries-sue-foxton-1.2625755", 
+    "Tags": [
+      "north-dumfries"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: 5 questions for North Dumfries' Sue Foxton"
   }, 
   {
     "Date": "2014-04-29", 
