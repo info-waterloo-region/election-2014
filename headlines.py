@@ -1,5 +1,6 @@
 import config
 import gspread
+import csv
 import json
 import time
 
@@ -7,6 +8,13 @@ import time
 g = gspread.login(config.user, config.password)
 s = g.open(config.news)
 w = s.get_worksheet(0)
+
+# Get worksheet values as list (l) of lists and write to csv file (f)
+l = w.get_all_values()
+f = open("headlines.csv", "wb")
+c = csv.writer(f, quoting=2)
+for h in l:
+  c.writerow([s.encode("utf-8") for s in h])
 
 # Get worksheet values as list (l) of dictionaries (d)
 # Sort list by date
