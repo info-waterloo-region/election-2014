@@ -1,5 +1,32 @@
 [
   {
+    "Date": "2014-10-07", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-mayor-hopefuls-agree-bureaucracy-stymies-business-1.2789893", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo mayor hopefuls agree bureaucracy stymies business"
+  }, 
+  {
+    "Date": "2014-10-07", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-votes-waterloo-ward-1-profile-1.2789169", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "CBC", 
+    "Title": "Waterloo Region votes: Waterloo Ward 1 profile"
+  }, 
+  {
+    "Date": "2014-10-07", 
+    "URL": "http://www.570news.com/2014/10/07/aissa-to-sell-northfield-property-to-avoid-possible-lrt-conflict/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "570 News", 
+    "Title": "Aissa to sell Northfield property to avoid possible LRT conflict"
+  }, 
+  {
     "Date": "2014-10-06", 
     "URL": "http://www.570news.com/2014/10/06/audio-getting-to-know-dave-jaworsky-running-for-mayor-of-waterloo/", 
     "Tags": [
@@ -43,6 +70,54 @@
     ], 
     "Site": "CBC", 
     "Title": "Waterloo Region votes: Waterloo Ward 7 profile"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4898967-north-dumfries-candidates-for-ward-3", 
+    "Tags": [
+      "north-dumfries"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "North Dumfries, candidates for Ward 3"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.cambridgetimes.ca/cambridge-on-topics/4899003-north-dumfries-candidates-for-ward-4", 
+    "Tags": [
+      "north-dumfries"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "North Dumfries, candidates for Ward 4"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.therecord.com/news-story/4900448-niki-allerton/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Niki Allerton"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.therecord.com/news-story/4900601-the-acclaimed-waterloo-region-politicians-aim-to-make-a-difference/", 
+    "Tags": [
+      "kitchener", 
+      "waterloo", 
+      "wilmot", 
+      "woolwich"
+    ], 
+    "Site": "The Record", 
+    "Title": "The acclaimed: Waterloo Region politicians aim to make a difference"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.therecord.com/news-story/4900543-waterloo-region-chair-candidate-aissa-selling-property-to-avoid-lrt-conflict/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "The Record", 
+    "Title": "Waterloo Region chair candidate Aissa selling property to avoid LRT conflict"
   }, 
   {
     "Date": "2014-10-04", 
@@ -358,6 +433,15 @@
     ], 
     "Site": "The Record", 
     "Title": "Most Waterloo Region candidates wouldn\u2019t cancel LRT"
+  }, 
+  {
+    "Date": "2014-10-03", 
+    "URL": "http://community.thecord.ca/blog/2014/10/03/mayoral-candidate-debate/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Cord", 
+    "Title": "Mayoral Candidate Debate"
   }, 
   {
     "Date": "2014-10-02", 
