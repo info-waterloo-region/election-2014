@@ -11,7 +11,7 @@ The scripts `candidates.py` and `headlines.py` extract data from two Google Spre
 The [demo site](http://info.waterlooregion.org/election-2014/) is made with:
 
 * [GitHub Pages](https://pages.github.com/) (with the [Hyde theme](http://hyde.getpoole.com))
-* Icons from [Font Awesome}(http://fortawesome.github.io/Font-Awesome/)
+* Icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ## Contact
 
