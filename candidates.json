@@ -12,19 +12,19 @@
         "Email": "info@votejay.ca"
       }, 
       {
-        "Website": "", 
+        "Website": "www.allianceagainstpoverty.com", 
         "Candidate": "Oscar Cole-Arnal", 
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "519-883-4005", 
-        "Facebook": "", 
+        "Facebook": "ozforchairWR", 
         "Incumbent": "", 
         "Email": "ocolearnal@gmail.com"
       }, 
       {
         "Website": "", 
         "Candidate": "Moira-Sharon Magee", 
-        "Twitter": "", 
+        "Twitter": "achairwhocares", 
         "LinkedIn": "", 
         "Phone": "", 
         "Facebook": "", 
@@ -54,7 +54,7 @@
       {
         "Website": "kenseiling.com", 
         "Candidate": "Ken Seiling", 
-        "Twitter": "", 
+        "Twitter": "KenSeiling", 
         "LinkedIn": "", 
         "Phone": "519-575-4585", 
         "Facebook": "", 
@@ -129,9 +129,9 @@
         "Website": "www.gregburns.ca", 
         "Candidate": "Greg Burns", 
         "Twitter": "gregorytburns", 
-        "LinkedIn": "", 
+        "LinkedIn": "in/gregorytburns", 
         "Phone": "519-807-6247", 
-        "Facebook": "", 
+        "Facebook": "votegregburns", 
         "Incumbent": "", 
         "Email": "gregory.t.burns@gmail.com"
       }, 
@@ -139,7 +139,7 @@
         "Website": "elizabethclarke-yourwaterloo.weebly.com", 
         "Candidate": "Elizabeth Clarke", 
         "Twitter": "ECatYW", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/elizabeth-clarke/12/b43/7a8", 
         "Phone": "519-501-3387", 
         "Facebook": "elizabethclarkeyourwaterloocouncillor", 
         "Incumbent": "", 
@@ -149,9 +149,9 @@
         "Website": "www.camerondearlove.ca", 
         "Candidate": "Cameron Dearlove", 
         "Twitter": "camdearlove", 
-        "LinkedIn": "", 
+        "LinkedIn": "in/camdearlove", 
         "Phone": "226-686-0046", 
-        "Facebook": "", 
+        "Facebook": "CameronDearlove", 
         "Incumbent": "", 
         "Email": "info@camerondearlove.ca"
       }, 
@@ -169,16 +169,16 @@
         "Website": "geofflorentz.ca", 
         "Candidate": "Geoff Lorentz", 
         "Twitter": "", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/geoff-lorentz/2/1b7/781", 
         "Phone": "519-741-1494", 
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "geoff.lorentz@rogers.com"
       }, 
       {
-        "Website": "", 
+        "Website": "karenredman.com", 
         "Candidate": "Karen Redman", 
-        "Twitter": "", 
+        "Twitter": "redman4region", 
         "LinkedIn": "pub/karen-redman/26/7b3/99b", 
         "Phone": "519-570-3838", 
         "Facebook": "Team.Karen.Redman", 
@@ -186,14 +186,14 @@
         "Email": "redman.mom@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "www.votewayne.ca", 
         "Candidate": "Wayne Wettlaufer", 
         "Twitter": "WayneWettlaufer", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/wayne-wettlaufer/26/59a/135", 
         "Phone": "519-208-2610", 
         "Facebook": "", 
         "Incumbent": "", 
-        "Email": "waymar2@rogers.com"
+        "Email": "wayne@votewayne.ca"
       }
     ], 
     "Waterloo": [
@@ -201,9 +201,9 @@
         "Website": "edkorschewitz.ca", 
         "Candidate": "Ed Korschewitz", 
         "Twitter": "ed_korschewitz", 
-        "LinkedIn": "", 
-        "Phone": "519-743-3099", 
-        "Facebook": "ed.korschewitz", 
+        "LinkedIn": "in/edkorschewitz", 
+        "Phone": "226-476-3064", 
+        "Facebook": "voteedkorschewitz", 
         "Incumbent": "", 
         "Email": "ed@edkorschewitz.ca"
       }, 
@@ -1782,7 +1782,7 @@
       {
         "Website": "www.bonniebryantwoolwich.ca", 
         "Candidate": "Bonnie Bryant", 
-        "Twitter": "", 
+        "Twitter": "bryantmaryhill", 
         "LinkedIn": "", 
         "Phone": "519-648-3608", 
         "Facebook": "", 
@@ -1891,7 +1891,7 @@
         "Twitter": "LynneHare2", 
         "LinkedIn": "pub/lynne-hare/73/857/4b2", 
         "Phone": "519-669-2767", 
-        "Facebook": "", 
+        "Facebook": "lynnehare1", 
         "Incumbent": "", 
         "Email": "lchare@golden.net"
       }, 
@@ -1916,7 +1916,7 @@
         "Email": "murraygmartin48@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "www.larryshantz.ca", 
         "Candidate": "Larry Shantz", 
         "Twitter": "", 
         "LinkedIn": "", 
