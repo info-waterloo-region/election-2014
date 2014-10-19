@@ -1033,7 +1033,7 @@
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "519-579-4052", 
-        "Facebook": "", 
+        "Facebook": "people/Zyg-Janecki/100004361837317", 
         "Incumbent": "Incumbent", 
         "Email": "zyg.janecki@rogers.com"
       }
@@ -1526,24 +1526,24 @@
         "Email": "p.p.hergott@sympatico.ca"
       }, 
       {
-        "Website": "", 
+        "Website": "joenowak.ca", 
         "Candidate": "Joe Nowak", 
-        "Twitter": "", 
+        "Twitter": "JoeNowak4Mayor", 
         "LinkedIn": "", 
-        "Phone": "", 
-        "Facebook": "", 
+        "Phone": "519-656-2466", 
+        "Facebook": "joenowakformayor", 
         "Incumbent": "", 
         "Email": "joebarb.nowak@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "www.jimolender.ca", 
         "Candidate": "Jim Olender", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-656-3067", 
         "Facebook": "", 
         "Incumbent": "", 
-        "Email": "marilyn.olender@sympatico.ca"
+        "Email": "jimolenderformayor@gmail.com"
       }
     ], 
     "Ward 1": [
@@ -1562,7 +1562,7 @@
         "Candidate": "Shelley Wagner", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-699-5814", 
         "Facebook": "", 
         "Incumbent": "Incumbent", 
         "Email": "shelleywagner7@hotmail.com"
@@ -1614,11 +1614,11 @@
     ], 
     "Ward 4": [
       {
-        "Website": "", 
+        "Website": "www.votecunningham.ca", 
         "Candidate": "Brian Cunningham", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "519-699-9252", 
+        "Phone": "519-404-5880", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "brian.a.cunningham@rogers.com"
@@ -1628,7 +1628,7 @@
         "Candidate": "Gord Doehn", 
         "Twitter": "", 
         "LinkedIn": "", 
-        "Phone": "", 
+        "Phone": "519-513-2482", 
         "Facebook": "", 
         "Incumbent": "", 
         "Email": "gdoehn@hotmail.com"
@@ -1636,8 +1636,8 @@
       {
         "Website": "", 
         "Candidate": "Andrew Epp", 
-        "Twitter": "", 
-        "LinkedIn": "", 
+        "Twitter": "MrAndrewEpp", 
+        "LinkedIn": "pub/andrew-epp/62/74b/8a4", 
         "Phone": "519-218-0306", 
         "Facebook": "", 
         "Incumbent": "", 
@@ -1660,27 +1660,27 @@
       {
         "Website": "", 
         "Candidate": "Leslie Armstrong", 
-        "Twitter": "", 
+        "Twitter": "LArmstrong2014", 
         "LinkedIn": "", 
         "Phone": "519-390-0168", 
-        "Facebook": "", 
+        "Facebook": "pages/Les-Armstrong-for-Wilmot/1518983311650771", 
         "Incumbent": "Incumbent", 
         "Email": "lesarmstrongformayor@hotmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "terrybroda.com", 
         "Candidate": "Terry Broda", 
-        "Twitter": "rbrodacampaign", 
+        "Twitter": "TBrodaCampaign", 
         "LinkedIn": "", 
         "Phone": "519-662-2679", 
-        "Facebook": "", 
+        "Facebook": "terrybrodacampaign", 
         "Incumbent": "", 
-        "Email": "terrybroda@rogers.com"
+        "Email": "terrybrodacampaign@yahoo.ca"
       }
     ], 
     "Ward 1": [
       {
-        "Website": "", 
+        "Website": "glenn.ca", 
         "Candidate": "Glenn Cooke", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -1702,14 +1702,14 @@
     ], 
     "Ward 2": [
       {
-        "Website": "", 
+        "Website": "www.votecheryl.com", 
         "Candidate": "Cheryl Lynn Gordijk", 
-        "Twitter": "", 
+        "Twitter": "Cheryl4Ward2", 
         "LinkedIn": "", 
-        "Phone": "519-573-8161", 
-        "Facebook": "", 
+        "Phone": "519-880-5885", 
+        "Facebook": "pages/Cheryl-Gordijk-for-Ward-2/1467074260226161", 
         "Incumbent": "", 
-        "Email": "cherylgordijk@gmail.com"
+        "Email": "ourvoice@votecheryl.com"
       }, 
       {
         "Website": "", 
@@ -1738,7 +1738,7 @@
       {
         "Website": "www.aaronfewkes.com", 
         "Candidate": "Aaron Fewkes", 
-        "Twitter": "", 
+        "Twitter": "refreshwilmot", 
         "LinkedIn": "", 
         "Phone": "519-574-8089", 
         "Facebook": "refreshingwilmot", 
@@ -1751,7 +1751,7 @@
         "Twitter": "", 
         "LinkedIn": "", 
         "Phone": "519-662-6658", 
-        "Facebook": "", 
+        "Facebook": "walterjeffrey1", 
         "Incumbent": "Incumbent", 
         "Email": "jeff@jeffgerber.ca"
       }, 
@@ -1790,6 +1790,16 @@
         "Email": "todd@vision4woolwich.com"
       }, 
       {
+        "Website": "", 
+        "Candidate": "Doug Hergott", 
+        "Twitter": "", 
+        "LinkedIn": "", 
+        "Phone": "519-699-5698", 
+        "Facebook": "", 
+        "Incumbent": "", 
+        "Email": "doug.hergott@rogers.com"
+      }, 
+      {
         "Website": "www.sandyformayor.ca", 
         "Candidate": "Sandy Shantz", 
         "Twitter": "Sandy_Shantz", 
@@ -1819,7 +1829,7 @@
         "Phone": "519-210-2121", 
         "Facebook": "", 
         "Incumbent": "", 
-        "Email": "drdanholt@rogers.com"
+        "Email": "votedanholt@gmail.com"
       }, 
       {
         "Website": "www.merlihan.com", 
