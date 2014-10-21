@@ -699,12 +699,12 @@
         "Phone": "519-576-3501", 
         "Facebook": "electdanmayor", 
         "Incumbent": "", 
-        "Email": "danbev@rogers.com"
+        "Email": "dan@electdanmayor.com"
       }, 
       {
         "Website": "petermartinformayor.com", 
         "Candidate": "Peter Martin", 
-        "Twitter": "", 
+        "Twitter": "peter4mayor2014", 
         "LinkedIn": "", 
         "Phone": "519-575-0326", 
         "Facebook": "", 
@@ -734,7 +734,7 @@
     ], 
     "Ward 1": [
       {
-        "Website": "", 
+        "Website": "www.voteniki.ca", 
         "Candidate": "Nikoleta Allerton", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -764,14 +764,14 @@
         "Email": "marcus@marcusdrasdo.com"
       }, 
       {
-        "Website": "", 
+        "Website": "ward1wayne.com", 
         "Candidate": "Wayne Riehl", 
         "Twitter": "", 
         "LinkedIn": "pub/wayne-riehl/b/335/b08", 
         "Phone": "519-579-2958", 
-        "Facebook": "wayne.riehl.5", 
+        "Facebook": "ward1wayne", 
         "Incumbent": "", 
-        "Email": "wjr2@rogers.com"
+        "Email": "ward1wayne@gmail.com"
       }
     ], 
     "Ward 2": [
@@ -793,15 +793,15 @@
         "Phone": "519-894-1831", 
         "Facebook": "DanGrahamWard2", 
         "Incumbent": "", 
-        "Email": "dgraham@bell.net"
+        "Email": "dan@dangrahamward2.com"
       }, 
       {
         "Website": "www.chrisletizi.ca", 
         "Candidate": "Chris Letizi", 
         "Twitter": "letizichris", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/chris-letizi/6b/29/a99", 
         "Phone": "519-208-8844", 
-        "Facebook": "", 
+        "Facebook": "voteletizi", 
         "Incumbent": "", 
         "Email": "chris@chrisletizi.ca"
       }, 
@@ -829,7 +829,7 @@
         "Website": "graysonward2.ca", 
         "Candidate": "Grayson Zeilstra", 
         "Twitter": "GCZeilstra", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/grayson-zeilstra/28/2aa/66/", 
         "Phone": "519-569-8948", 
         "Facebook": "graysonward2", 
         "Incumbent": "", 
@@ -843,16 +843,16 @@
         "Twitter": "jgaz3", 
         "LinkedIn": "", 
         "Phone": "519-744-0807", 
-        "Facebook": "", 
+        "Facebook": "john.gazzola.12", 
         "Incumbent": "Incumbent", 
         "Email": "jgazzola@rogers.com"
       }
     ], 
     "Ward 4": [
       {
-        "Website": "", 
+        "Website": "www.waynebuchholtz.ca", 
         "Candidate": "Wayne Buchholtz", 
-        "Twitter": "", 
+        "Twitter": "wayne4kitchener", 
         "LinkedIn": "", 
         "Phone": "519-748-1216", 
         "Facebook": "", 
@@ -860,17 +860,17 @@
         "Email": "wbuchholtz1051@rogers.com"
       }, 
       {
-        "Website": "", 
+        "Website": "www.vote-yvonne.com", 
         "Candidate": "Yvonne Fernandes", 
         "Twitter": "yvonnefern", 
         "LinkedIn": "pub/yvonne-fernandes/1b/245/259", 
         "Phone": "519-748-1659", 
-        "Facebook": "", 
+        "Facebook": "yvonne.fernandes.92", 
         "Incumbent": "Incumbent", 
         "Email": "yvonne.fernandes25@gmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "malthaner1015.wix.com/voteforrolf", 
         "Candidate": "Rolf Malthaner", 
         "Twitter": "rolf.malthaner", 
         "LinkedIn": "", 
@@ -882,7 +882,7 @@
     ], 
     "Ward 5": [
       {
-        "Website": "kellygalloway.ca", 
+        "Website": "kellygallowaysealock.ca", 
         "Candidate": "Kelly Galloway-Sealock", 
         "Twitter": "gallowaykelly", 
         "LinkedIn": "", 
@@ -895,7 +895,7 @@
         "Website": "www.focusing-on-what-counts.com", 
         "Candidate": "Mary Henein Thorn", 
         "Twitter": "MaryHeneinThorn", 
-        "LinkedIn": "", 
+        "LinkedIn": "in/maryheneinthorn", 
         "Phone": "519-722-3071", 
         "Facebook": "pages/Mary-Henein-Thorn-Ward-5-Municipal-Election-Candidate-2014-Kitchener/491726630964631", 
         "Incumbent": "", 
@@ -912,7 +912,7 @@
         "Email": "lalamalik@hotmail.com"
       }, 
       {
-        "Website": "", 
+        "Website": "www.votewharton.com", 
         "Candidate": "Trysha Wharton", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -924,7 +924,7 @@
     ], 
     "Ward 6": [
       {
-        "Website": "", 
+        "Website": "www.bongelliward6.weebly.com", 
         "Candidate": "Steve Bongelli", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -949,7 +949,7 @@
         "Twitter": "wandakampijan", 
         "LinkedIn": "", 
         "Phone": "519-571-4919", 
-        "Facebook": "", 
+        "Facebook": "pages/WandaKampijan/635640746555474", 
         "Incumbent": "", 
         "Email": "wkampijan@gmail.com"
       }, 
@@ -964,12 +964,12 @@
         "Email": "ward6@thesawyers.ca"
       }, 
       {
-        "Website": "", 
+        "Website": "www.votepaulsingh.com", 
         "Candidate": "Paul Singh", 
         "Twitter": "PaulSinghWard6", 
         "LinkedIn": "", 
         "Phone": "519-721-3272", 
-        "Facebook": "", 
+        "Facebook": "votepaulsingh", 
         "Incumbent": "Incumbent", 
         "Email": "paulsinghward6@gmail.com"
       }
@@ -999,7 +999,7 @@
         "Website": "fauziamazhar.ca", 
         "Candidate": "Fauzia Mazhar", 
         "Twitter": "fauziamazhar2", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/fauzia-mazhar/45/7a/322", 
         "Phone": "519-781-1285", 
         "Facebook": "FauziaMazhar2", 
         "Incumbent": "", 
@@ -1008,12 +1008,12 @@
     ], 
     "Ward 8": [
       {
-        "Website": "", 
+        "Website": "ericbohner.ca", 
         "Candidate": "Eric Bohner", 
-        "Twitter": "", 
+        "Twitter": "BohnerW8", 
         "LinkedIn": "", 
         "Phone": "226-791-2094", 
-        "Facebook": "", 
+        "Facebook": "voteericbohner", 
         "Incumbent": "", 
         "Email": "eric.n.bohner@gmail.com"
       }, 
@@ -1028,7 +1028,7 @@
         "Email": "margaret.anne.johnston@rogers.com"
       }, 
       {
-        "Website": "", 
+        "Website": "www.zygjanecki.com", 
         "Candidate": "Zyg Janecki", 
         "Twitter": "", 
         "LinkedIn": "", 
@@ -1045,7 +1045,7 @@
         "Twitter": "Frank_Ward9", 
         "LinkedIn": "", 
         "Phone": "519-579-0502", 
-        "Facebook": "", 
+        "Facebook": "frank.etherington.3", 
         "Incumbent": "Incumbent", 
         "Email": "fetherington@sympatico.ca"
       }, 
@@ -1064,7 +1064,7 @@
         "Candidate": "Terry Ross", 
         "Twitter": "TerryWard_9 ", 
         "LinkedIn": "", 
-        "Phone": "519-745-3601", 
+        "Phone": "519-590-9972", 
         "Facebook": "TerryRossforWard9", 
         "Incumbent": "", 
         "Email": "TerryWard9@mail.com"
@@ -1073,7 +1073,7 @@
         "Website": "believeinsteve.ca", 
         "Candidate": "Steve Strohack", 
         "Twitter": "ward9strohack", 
-        "LinkedIn": "", 
+        "LinkedIn": "pub/steve-strohack/28/163/1aa", 
         "Phone": "226-972-2251", 
         "Facebook": "", 
         "Incumbent": "", 
@@ -1082,12 +1082,12 @@
       {
         "Website": "", 
         "Candidate": "Michael Windley", 
-        "Twitter": "", 
+        "Twitter": "michaelwindley", 
         "LinkedIn": "", 
         "Phone": "519-616-1575", 
-        "Facebook": "", 
+        "Facebook": "pages/Michael-Windley-Ward-9/529917530488448", 
         "Incumbent": "", 
-        "Email": "mcwind.i@yahoo.ca"
+        "Email": "michaelwindley9@gmail.com"
       }
     ], 
     "Ward 10": [
@@ -1099,7 +1099,7 @@
         "Phone": "519-589-9597", 
         "Facebook": "JamesHoweWard10", 
         "Incumbent": "", 
-        "Email": "jameshowe@rogers.com"
+        "Email": "Vote@JamesHowe.ca"
       }, 
       {
         "Website": "", 
@@ -1114,10 +1114,10 @@
       {
         "Website": "gabrielekorschewitz.com", 
         "Candidate": "Gabriele Korschewitz", 
-        "Twitter": "", 
+        "Twitter": "Ward10Gabriele", 
         "LinkedIn": "", 
         "Phone": "226-476-2484", 
-        "Facebook": "", 
+        "Facebook": "people/Gabriele-Korschewitz-Campaign/100005130167412", 
         "Incumbent": "", 
         "Email": "gabriele@gabrielekorschewitz.com"
       }, 
