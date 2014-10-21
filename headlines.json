@@ -1,5 +1,41 @@
 [
   {
+    "Date": "2014-10-20", 
+    "URL": "http://www.570news.com/2014/10/20/political-watcher-says-voters-turned-off-by-local-election-antics/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Political watcher says voters turned off by local election antics"
+  }, 
+  {
+    "Date": "2014-10-20", 
+    "URL": "http://www.570news.com/2014/10/20/advanced-polling-closed-cambridge-sees-increase-in-early-voters/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "570 News", 
+    "Title": "Advanced polling closed; Cambridge sees increase in early voters"
+  }, 
+  {
+    "Date": "2014-10-20", 
+    "URL": "http://www.cbc.ca/m/news/canada/kitchener-waterloo/dan-glenn-graham-fires-campaign-staffer-for-sending-email-1.2805931", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "CBC", 
+    "Title": "Dan Glenn-Graham fires campaign staffer for sending email"
+  }, 
+  {
+    "Date": "2014-10-20", 
+    "URL": "http://www.cbc.ca/news/canada/kitchener-waterloo/dan-glenn-graham-says-campaign-staffer-resigned-over-controversial-email-1.2805931", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "CBC", 
+    "Title": "Dan Glenn-Graham says campaign staffer resigned over controversial email"
+  }, 
+  {
     "Date": "2014-10-18", 
     "URL": "http://www.570news.com/2014/10/18/ward-2-candidate-doesnt-accept-dan-glenn-grahams-apology/", 
     "Tags": [
@@ -16,6 +52,15 @@
     ], 
     "Site": "The Record", 
     "Title": "Kitchener mayoral candidate apologizes over email asking Ward 2 candidate to step down"
+  }, 
+  {
+    "Date": "2014-10-18", 
+    "URL": "http://www.therecord.com/news-story/4921332-big-city-politics-come-to-waterloo-region/", 
+    "Tags": [
+      "all"
+    ], 
+    "Site": "The Record", 
+    "Title": "Big city politics come to Waterloo Region"
   }, 
   {
     "Date": "2014-10-17", 
@@ -80,6 +125,15 @@
     ], 
     "Site": "570 News", 
     "Title": "Approximately 1,500 votes cast in advanced polls in Waterloo"
+  }, 
+  {
+    "Date": "2014-10-17", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4920701-cambridge-needs-greater-voice-at-region-candidates-agree/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Cambridge needs greater voice at region, candidates agree"
   }, 
   {
     "Date": "2014-10-17", 
@@ -176,6 +230,33 @@
   }, 
   {
     "Date": "2014-10-16", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4918637-nearly-1-600-ballots-have-already-been-cast-in-cambridge/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Nearly 1,600 ballots have already been cast in Cambridge"
+  }, 
+  {
+    "Date": "2014-10-16", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4918635-former-candidate-accuses-barb-bierman-of-taking-his-ideas/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Former candidate accuses Barb Bierman of taking his ideas"
+  }, 
+  {
+    "Date": "2014-10-16", 
+    "URL": "http://www.kitchenerpost.ca/news/rhodes-drops-out-of-mayoral-race/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "Kitchener Post", 
+    "Title": "Rhodes drops out of mayoral race"
+  }, 
+  {
+    "Date": "2014-10-16", 
     "URL": "http://www.therecord.com/news-story/4919734-controversy-gravel-pits-debt-and-growth-big-issues-in-waterloo-region-townships/", 
     "Tags": [
       "north-dumfries", 
@@ -195,6 +276,24 @@
     ], 
     "Site": "570 News", 
     "Title": "Dozens take part as advanced polls open in Kitchener"
+  }, 
+  {
+    "Date": "2014-10-15", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4915406-not-sure-where-to-vote-there-s-an-app-for-that/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "Not sure where to vote? There\u2019s an app for that"
+  }, 
+  {
+    "Date": "2014-10-15", 
+    "URL": "http://www.cambridgetimes.ca/news-story/4915598-north-dumfries-mayoral-candidates-pitch-their-strengths/", 
+    "Tags": [
+      "north-dumfries"
+    ], 
+    "Site": "Cambridge Times", 
+    "Title": "North Dumfries mayoral candidates pitch their strengths"
   }, 
   {
     "Date": "2014-10-15", 
