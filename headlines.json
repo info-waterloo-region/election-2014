@@ -1,12 +1,23 @@
 [
   {
-    "Date": "2014-10-20", 
-    "URL": "http://www.570news.com/2014/10/20/political-watcher-says-voters-turned-off-by-local-election-antics/", 
+    "Date": "2014-10-21", 
+    "URL": "http://www.therecord.com/news-story/4924627-high-turnout-for-advance-polls-a-sign-of-things-to-come-/", 
     "Tags": [
-      "kitchener"
+      "all"
     ], 
-    "Site": "570 News", 
-    "Title": "Political watcher says voters turned off by local election antics"
+    "Site": "The Record", 
+    "Title": "High turnout for advance polls a sign of things to come?"
+  }, 
+  {
+    "Date": "2014-10-21", 
+    "URL": "http://www.therecord.com/news-story/4924675-candidates-across-region-running-in-wards-away-from-their-homes/", 
+    "Tags": [
+      "cambridge", 
+      "kitchener", 
+      "waterloo"
+    ], 
+    "Site": "The Record", 
+    "Title": "Candidates across region running in wards away from their homes"
   }, 
   {
     "Date": "2014-10-20", 
@@ -19,12 +30,21 @@
   }, 
   {
     "Date": "2014-10-20", 
-    "URL": "http://www.cbc.ca/m/news/canada/kitchener-waterloo/dan-glenn-graham-fires-campaign-staffer-for-sending-email-1.2805931", 
+    "URL": "http://www.570news.com/2014/10/20/political-watcher-says-voters-turned-off-by-local-election-antics/", 
     "Tags": [
       "kitchener"
     ], 
-    "Site": "CBC", 
-    "Title": "Dan Glenn-Graham fires campaign staffer for sending email"
+    "Site": "570 News", 
+    "Title": "Political watcher says voters turned off by local election antics"
+  }, 
+  {
+    "Date": "2014-10-20", 
+    "URL": "http://www.570news.com/2014/10/20/volunteer-who-sent-controversial-email-from-glenn-graham-account-has-resigned/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "570 News", 
+    "Title": "Volunteer who sent controversial email from Glenn-Graham account has resigned"
   }, 
   {
     "Date": "2014-10-20", 
@@ -34,6 +54,15 @@
     ], 
     "Site": "CBC", 
     "Title": "Dan Glenn-Graham says campaign staffer resigned over controversial email"
+  }, 
+  {
+    "Date": "2014-10-20", 
+    "URL": "http://www.therecord.com/news-story/4924573-poverty-alliance-hosts-market-place-debate/", 
+    "Tags": [
+      "waterloo-region"
+    ], 
+    "Site": "The Record", 
+    "Title": "Poverty alliance hosts market place debate"
   }, 
   {
     "Date": "2014-10-18", 
@@ -46,21 +75,21 @@
   }, 
   {
     "Date": "2014-10-18", 
-    "URL": "http://www.therecord.com/news-story/4921507-kitchener-mayoral-candidate-apologizes-over-email-asking-ward-2-candidate-to-step-down/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "The Record", 
-    "Title": "Kitchener mayoral candidate apologizes over email asking Ward 2 candidate to step down"
-  }, 
-  {
-    "Date": "2014-10-18", 
     "URL": "http://www.therecord.com/news-story/4921332-big-city-politics-come-to-waterloo-region/", 
     "Tags": [
       "all"
     ], 
     "Site": "The Record", 
     "Title": "Big city politics come to Waterloo Region"
+  }, 
+  {
+    "Date": "2014-10-18", 
+    "URL": "http://www.therecord.com/news-story/4921507-kitchener-mayoral-candidate-apologizes-over-email-asking-ward-2-candidate-to-step-down/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener mayoral candidate apologizes over email asking Ward 2 candidate to step down"
   }, 
   {
     "Date": "2014-10-17", 
@@ -164,6 +193,24 @@
   }, 
   {
     "Date": "2014-10-17", 
+    "URL": "http://www.therecord.com/news-story/4919777-cambridge-mayoral-candidate-fails-in-bid-to-disqualify-two-rivals/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "The Record", 
+    "Title": "Cambridge mayoral candidate fails in bid to disqualify two rivals"
+  }, 
+  {
+    "Date": "2014-10-17", 
+    "URL": "http://www.therecord.com/news-story/4921450-wide-pool-of-contenders-come-forward-to-challenge-craig-in-cambridge/", 
+    "Tags": [
+      "cambridge"
+    ], 
+    "Site": "The Record", 
+    "Title": "Wide pool of contenders come forward to challenge Craig in Cambridge"
+  }, 
+  {
+    "Date": "2014-10-17", 
     "URL": "http://www.therecord.com/news-story/4921387-the-four-men-who-want-to-be-kitchener-s-next-mayor/", 
     "Tags": [
       "kitchener"
@@ -185,30 +232,12 @@
   }, 
   {
     "Date": "2014-10-17", 
-    "URL": "http://www.therecord.com/news-story/4919777-cambridge-mayoral-candidate-fails-in-bid-to-disqualify-two-rivals/", 
-    "Tags": [
-      "cambridge"
-    ], 
-    "Site": "The Record", 
-    "Title": "Cambridge mayoral candidate fails in bid to disqualify two rivals"
-  }, 
-  {
-    "Date": "2014-10-17", 
     "URL": "http://www.therecord.com/news-story/4921335-rookies-vie-for-waterloo-s-top-political-job/", 
     "Tags": [
       "waterloo"
     ], 
     "Site": "The Record", 
     "Title": "Rookies vie for Waterloo\u2019s top political job"
-  }, 
-  {
-    "Date": "2014-10-17", 
-    "URL": "http://www.therecord.com/news-story/4921450-wide-pool-of-contenders-come-forward-to-challenge-craig-in-cambridge/", 
-    "Tags": [
-      "cambridge"
-    ], 
-    "Site": "The Record", 
-    "Title": "Wide pool of contenders come forward to challenge Craig in Cambridge"
   }, 
   {
     "Date": "2014-10-17", 
@@ -324,30 +353,12 @@
   }, 
   {
     "Date": "2014-10-15", 
-    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902401-wellesley-ward-1", 
-    "Tags": [
-      "wellesley"
-    ], 
-    "Site": "The Record", 
-    "Title": "Wellesley Ward 1"
-  }, 
-  {
-    "Date": "2014-10-15", 
     "URL": "http://www.therecord.com/news-story/4913995-cambridge-mayoral-challengers-attack-incumbent-craig-s-record-on-public-buildings-galt-favouritism/", 
     "Tags": [
       "cambridge"
     ], 
     "Site": "The Record", 
     "Title": "Cambridge mayoral challengers attack incumbent Craig\u2019s record on public buildings, Galt favouritism"
-  }, 
-  {
-    "Date": "2014-10-15", 
-    "URL": "http://www.therecord.com/news-story/4911778-replay-waterloo-mayoral-forum/", 
-    "Tags": [
-      "waterloo"
-    ], 
-    "Site": "The Record", 
-    "Title": "REPLAY: Waterloo Mayoral Forum"
   }, 
   {
     "Date": "2014-10-15", 
@@ -360,12 +371,30 @@
   }, 
   {
     "Date": "2014-10-15", 
+    "URL": "http://www.therecord.com/news-story/4911778-replay-waterloo-mayoral-forum/", 
+    "Tags": [
+      "waterloo"
+    ], 
+    "Site": "The Record", 
+    "Title": "REPLAY: Waterloo Mayoral Forum"
+  }, 
+  {
+    "Date": "2014-10-15", 
     "URL": "http://www.therecord.com/news-story/4915963-waterloo-mayoral-hopefuls-debate-travel-budgets-firefighter-bonuses/", 
     "Tags": [
       "waterloo"
     ], 
     "Site": "The Record", 
     "Title": "Waterloo mayoral hopefuls debate travel budgets, firefighter bonuses"
+  }, 
+  {
+    "Date": "2014-10-15", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902401-wellesley-ward-1", 
+    "Tags": [
+      "wellesley"
+    ], 
+    "Site": "The Record", 
+    "Title": "Wellesley Ward 1"
   }, 
   {
     "Date": "2014-10-15", 
@@ -486,6 +515,15 @@
   }, 
   {
     "Date": "2014-10-14", 
+    "URL": "http://www.therecord.com/news-story/4913784-rhodes-pulls-out-of-kitchener-mayoral-race-endorses-glenn-graham/", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Rhodes pulls out of Kitchener mayoral race, endorses Glenn-Graham"
+  }, 
+  {
+    "Date": "2014-10-14", 
     "URL": "http://www.therecord.com/news-story/4913811-2014-election-wealthy-waterloo-not-without-its-challenges/", 
     "Tags": [
       "waterloo"
@@ -495,12 +533,12 @@
   }, 
   {
     "Date": "2014-10-14", 
-    "URL": "http://www.therecord.com/news-story/4913784-rhodes-pulls-out-of-kitchener-mayoral-race-endorses-glenn-graham/", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902329-kitchener-ward-10", 
     "Tags": [
       "kitchener"
     ], 
     "Site": "The Record", 
-    "Title": "Rhodes pulls out of Kitchener mayoral race, endorses Glenn-Graham"
+    "Title": "Kitchener Ward 10"
   }, 
   {
     "Date": "2014-10-13", 
@@ -699,6 +737,15 @@
   }, 
   {
     "Date": "2014-10-08", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902312-kitchener-ward-3", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 3"
+  }, 
+  {
+    "Date": "2014-10-08", 
     "URL": "http://www.waterloochronicle.ca/news/mayoral-candidates-weigh-in-on-idea-of-budget-committee/", 
     "Tags": [
       "waterloo"
@@ -789,6 +836,15 @@
   }, 
   {
     "Date": "2014-10-07", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4900539-wellesley-mayor", 
+    "Tags": [
+      "wellesley"
+    ], 
+    "Site": "The Record", 
+    "Title": "Mayor - Wellesley"
+  }, 
+  {
+    "Date": "2014-10-07", 
     "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902395-wilmot-ward-2", 
     "Tags": [
       "wilmot"
@@ -816,12 +872,48 @@
   }, 
   {
     "Date": "2014-10-07", 
-    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4900539-wellesley-mayor", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902314-kitchener-ward-4", 
     "Tags": [
-      "wellesley"
+      "kitchener"
     ], 
     "Site": "The Record", 
-    "Title": "Mayor - Wellesley"
+    "Title": "Kitchener Ward 4"
+  }, 
+  {
+    "Date": "2014-10-07", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902316-kitchener-ward-5", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 5"
+  }, 
+  {
+    "Date": "2014-10-07", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902318-kitchener-ward-6", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 6"
+  }, 
+  {
+    "Date": "2014-10-07", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902320-kitchener-ward-7", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 7"
+  }, 
+  {
+    "Date": "2014-10-07", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4900488-mayor-kitchener", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Mayor Kitchener"
   }, 
   {
     "Date": "2014-10-06", 
@@ -897,15 +989,6 @@
   }, 
   {
     "Date": "2014-10-06", 
-    "URL": "http://www.therecord.com/news-story/4900448-niki-allerton/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "The Record", 
-    "Title": "Niki Allerton"
-  }, 
-  {
-    "Date": "2014-10-06", 
     "URL": "http://www.therecord.com/news-story/4900601-the-acclaimed-waterloo-region-politicians-aim-to-make-a-difference/", 
     "Tags": [
       "kitchener", 
@@ -933,6 +1016,24 @@
     ], 
     "Site": "The Record", 
     "Title": "Mayor - Wilmot"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902308-kitchener-ward-1", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 1"
+  }, 
+  {
+    "Date": "2014-10-06", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902326-kitchener-ward-9", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 9"
   }, 
   {
     "Date": "2014-10-04", 
@@ -1071,33 +1172,6 @@
   }, 
   {
     "Date": "2014-10-03", 
-    "URL": "http://www.therecord.com/news-story/4896109-dave-schnider/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "The Record", 
-    "Title": "Dave Schnider"
-  }, 
-  {
-    "Date": "2014-10-03", 
-    "URL": "http://www.therecord.com/news-story/4897020-eric-bohner/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "The Record", 
-    "Title": "Eric Bohner"
-  }, 
-  {
-    "Date": "2014-10-03", 
-    "URL": "http://www.therecord.com/news-story/4897012-james-rhodes/", 
-    "Tags": [
-      "kitchener"
-    ], 
-    "Site": "The Record", 
-    "Title": "James Rhodes"
-  }, 
-  {
-    "Date": "2014-10-03", 
     "URL": "http://www.therecord.com/news-story/4897005-derrick-ostner/", 
     "Tags": [
       "north-dumfries"
@@ -1179,6 +1253,15 @@
   }, 
   {
     "Date": "2014-10-03", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902405-wellesley-ward-3", 
+    "Tags": [
+      "wellesley"
+    ], 
+    "Site": "The Record", 
+    "Title": "Wellesley Ward 3"
+  }, 
+  {
+    "Date": "2014-10-03", 
     "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902399-wilmot-ward-4", 
     "Tags": [
       "wilmot"
@@ -1206,12 +1289,21 @@
   }, 
   {
     "Date": "2014-10-03", 
-    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902405-wellesley-ward-3", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902310-kitchener-ward-2", 
     "Tags": [
-      "wellesley"
+      "kitchener"
     ], 
     "Site": "The Record", 
-    "Title": "Wellesley Ward 3"
+    "Title": "Kitchener Ward 2"
+  }, 
+  {
+    "Date": "2014-10-03", 
+    "URL": "http://www.therecord.com/publication-topics/waterlooregionrecord/4902322-kitchener-ward-8", 
+    "Tags": [
+      "kitchener"
+    ], 
+    "Site": "The Record", 
+    "Title": "Kitchener Ward 8"
   }, 
   {
     "Date": "2014-10-02", 
